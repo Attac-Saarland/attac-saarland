@@ -1594,7 +1594,8 @@ models:
         label: Betrag
       - type: string
         name: freibetrag
-        label: 
+        label: freier Betrag
+        
       - type: string
         name: label
         label: Label
