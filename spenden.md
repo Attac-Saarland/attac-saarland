@@ -343,7 +343,7 @@ sections:
         name: jahr
         label: Geburtsjahr
         options:
-          -     • 2015
+    • 2015
     • 2014
     • 2013
     • 2012
