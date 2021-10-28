@@ -1592,7 +1592,8 @@ models:
       - type: string
         name: betrag
         label: Betrag
-      - type: text
+      - type: string
+      
       - type: string
         name: label
         label: Label
