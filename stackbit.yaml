@@ -1598,6 +1598,7 @@ models:
         description: 'The name of the field, submitted with the form'
         required: false
       - type: string
+      - type: string
         name: label
         label: Label
         description: 'The caption of the field, shown above the field input'
