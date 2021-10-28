@@ -102,7 +102,7 @@ sections:
         label: Anrede *
         default_value: Keine
         options: 
-          - Mann
+          - Herr
           - Frau
         is_required: true
       - input_type: text
