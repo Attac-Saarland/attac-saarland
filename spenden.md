@@ -481,7 +481,7 @@ sections:
         is_required: false
       - input_type: text
         name: konto
-        label: Kontoverbindung
+        label: IBAN
         is_required: true
       - input_type: checkbox
         name: newsletter
