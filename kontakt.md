@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: Spendenaufruf
 hide_title: true
 sections:
   - type: form_section
