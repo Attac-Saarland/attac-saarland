@@ -1573,7 +1573,7 @@ models:
         label: PLZ
         description: 'Feldname, mit dem Formular übermittelt'
         required: true
-      - type: select
+      - type: string
         name: land
         label: Land
         description: 'Feldname, mit dem Formular übermittelt'
