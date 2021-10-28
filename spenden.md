@@ -482,6 +482,8 @@ sections:
         default_value: Kommentar zur Spende
         is_required: false
       - input_type: checkbox
+        name: 
+      - input_type: checkbox
         name: consent
         label: >-
           Ich habe die <a href="/datenschutz">Datenschutzbestimmungen</a>
