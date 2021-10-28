@@ -79,6 +79,6 @@ seo:
     - name: 'twitter:title'
       value: Kontakt
     - name: 'twitter:description'
-      value: Dies ist die Kontaktseite
+      value: Attac unterstützen
 layout: advanced
 ---
