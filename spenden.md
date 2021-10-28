@@ -116,7 +116,7 @@ sections:
         name: email
         label: E-Mail
         default_value: Ihre E-Mail-Adresse
-        is_required: true
+        is_required: false
       - input_type: tel
         name: phone
         label: Telefonnummer*
