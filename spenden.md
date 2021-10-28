@@ -473,7 +473,7 @@ sections:
         is_required: true
       - input_type: text
         name: freibetrag
-        label: Freier Betrag
+        label: Freier Betrag*
         default_value: Betrag eingeben
         is_required: false
       - input_type: textarea
