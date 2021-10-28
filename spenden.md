@@ -480,7 +480,9 @@ sections:
         default_value: Kommentar zur Spende
         is_required: false
       - input_type: text
-        
+        name: konto
+        label: Kontoverbindung
+        is_required: true
       - input_type: checkbox
         name: newsletter
         label: Ich möchte den Attac-Newsletter abonnieren.
