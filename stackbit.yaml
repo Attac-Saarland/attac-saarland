@@ -1587,7 +1587,7 @@ models:
         label: Land
         description: 'Feldname, mit dem Formular übermittelt'
         required: false
-      - type: number
+      - type: string
         name: jahr
         label: Geburtsjahr
         description: 'Feldname, mit dem Formular übermittelt'
