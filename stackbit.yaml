@@ -1597,7 +1597,7 @@ models:
         label: Freier Betrag
         description: 'The name of the field, submitted with the form'
         required: false
-      - type: string
+      - type: boolean
       - type: string
         name: label
         label: Label
