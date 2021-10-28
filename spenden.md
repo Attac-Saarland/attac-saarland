@@ -484,7 +484,7 @@ sections:
         label: IBAN
         is_required: true
       - input_type: number
-        name: iban
+        name: bic
         label: IBAN
         is_required: true
       - input_type: checkbox
