@@ -460,6 +460,8 @@ sections:
         - 1901
         - 1900
         is_required: false
+      - input_type: radio
+        name: 
       - input_type: textarea
         name: message
         label: Kommentar
