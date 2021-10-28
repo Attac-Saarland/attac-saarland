@@ -11,7 +11,7 @@ seo:
       value: Über Attac
       keyName: property
     - name: 'og:description'
-      value: Über Attac
+      value: Alles was ihr schon immer über uns wissen wolltet
       keyName: property
     - name: 'og:image'
       value: images/ueber-uns/finance-for-the-people-900.jpg
