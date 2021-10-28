@@ -105,7 +105,7 @@ sections:
         default_value: Frau
         options: 
         - Mann
-        - n: Frau
+        - Frau
         is_required: true
       - input_type: text
         name: name
