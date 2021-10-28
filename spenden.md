@@ -463,6 +463,7 @@ sections:
       - input_type: radio
         name: betrag
         label: Betrag
+        is_required: 
       - input_type: textarea
         name: message
         label: Kommentar
