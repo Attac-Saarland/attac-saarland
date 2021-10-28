@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Über uns
+      value: Über Attac
     - name: 'twitter:description'
       value: Über Attac
     - name: 'twitter:image'
