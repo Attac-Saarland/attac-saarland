@@ -113,7 +113,7 @@ sections:
         default_value: Ihr Name
         is_required: true
       - input_type: text
-        name: name
+        name: strasse
         label: Name*
         default_value: Ihr Name
         is_required: true
