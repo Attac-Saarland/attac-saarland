@@ -70,7 +70,7 @@ sections:
 
       Weitere Infos
     mitglieddaten: >
-            ## Mitglied werden - jetzt erst recht! 
+      ## Mitglied werden - jetzt erst recht! 
 
 
       Eine Attac-Mitgliedschaft stärkt unsere politischen Alternativen auch mit
