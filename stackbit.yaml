@@ -1578,6 +1578,9 @@ models:
         label: Land
         description: 'Feldname, mit dem Formular übermittelt'
         required: false
+      - type: number
+        name: jahr
+        label: Gebur
       - type: string
         name: name
         label: Name
