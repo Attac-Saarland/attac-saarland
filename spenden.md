@@ -463,7 +463,7 @@ sections:
       - input_type: select
         name: betrag
         label: Betrag
-        options:
+        options: radio
         - 10,-€
         - 25,-€
         - 50,-€
