@@ -342,6 +342,8 @@ sections:
       - input_type: select
         name: jahr
         label: Geburtsjahr
+        options:
+          - 
         is_required: false
       - input_type: textarea
         name: message
