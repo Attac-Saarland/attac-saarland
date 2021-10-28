@@ -1604,7 +1604,7 @@ models:
         required: false
       - type: boolean
         name: post
-        label: Newsletter
+        label: Post bekommen
         description: 'The name of the field, submitted with the form'
         required: false        
       - type: string
