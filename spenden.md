@@ -488,7 +488,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Kontakt
+      value: Spende
     - name: 'twitter:description'
       value: Attac unterstützen
 layout: advanced
