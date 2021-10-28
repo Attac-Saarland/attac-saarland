@@ -97,7 +97,32 @@ sections:
 
       (Felder mit \* müssen ausgefüllt werden)
     spendenkonto: >
-    
+            ## Spendenkonto 
+
+
+      Attac Trägerverein e.V. 
+
+
+      IBAN: DE57 43060967 0800100800 
+
+
+      BIC: GENODEM 1 GLS 
+
+
+      GLS Gemeinschaftsbank
+
+
+
+      Wichtig: Nach dem Urteil des Bundesfinanzhofs ist Attac aktuell nicht
+      gemeinnützig, Spenden können somit steuerlich nicht geltend gemacht
+      werden.
+
+
+      Das Verfahren wurde zurückverwiesen an die erste Instanz, das Hessische
+      Finanzgericht. Dessen erneute Entscheidung steht noch aus.
+
+
+      Weitere Infos
     form_id: contactForm
     form_action: /thank-you
     form_fields:
