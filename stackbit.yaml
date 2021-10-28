@@ -716,7 +716,7 @@ models:
         description: Repeat the image to cover the whole area
   grid_section:
     type: object
-    label: Abschnitt Raster
+    label: Abschnitt Mitstreiter
     labelField: title
     fields:
       - type: string
