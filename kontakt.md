@@ -8,10 +8,7 @@ sections:
     subtitle: Unterstützen
     content: >
       ![Finance for the
-      people](/unterstuetzen/images/finance-for-the-people-900.jpg)
-
-
-
+      people](/unterstuetzen/images/finance-for-the-people-900.jpg)  
 
       Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
       für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
