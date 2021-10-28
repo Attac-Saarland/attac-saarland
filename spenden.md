@@ -339,6 +339,10 @@ sections:
         - Marshallinseln
         - Mikronesien
         is_required: false
+      - input_type: text
+        name: jahr
+        label: Geburtsjahr
+        is_required: false
       - input_type: textarea
         name: message
         label: Kommentar
