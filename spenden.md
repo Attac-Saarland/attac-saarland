@@ -124,7 +124,7 @@ sections:
       - input_type: text
         name: ort
         label: Ort*
-        default_value: Ihr Name
+        default_value: Ihr Wohnort
         is_required: true
         is_required: true
       - input_type: email
