@@ -102,6 +102,7 @@ sections:
       - input_type: select
         name: anrede
         label: Anrede*
+        default_value: Keine
         options: 
           - Mann
           - Frau
