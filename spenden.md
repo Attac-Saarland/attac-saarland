@@ -69,7 +69,7 @@ sections:
 
 
       Weitere Infos
-    mi
+    mitglieddaten:
     form_id: contactForm
     form_action: /thank-you
     form_fields:
