@@ -10,7 +10,7 @@ sections:
       ![Finance for the
       people](/unterstuetzen/images/finance-for-the-people-900.jpg)  
 
-      Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
+      <br>Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
       für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
       Engagement, sondern auch Geld. Wir wollen weiterhin unabhängig, kreativ
       und erfolgreich die politische Landschaft gestalten und den Mächtigen die
