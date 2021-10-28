@@ -485,7 +485,7 @@ sections:
         is_required: true
       - input_type: number
         name: bic
-        label: BIC
+        label: BIC *
         is_required: true
       - input_type: text
         name: first
