@@ -1561,7 +1561,7 @@ models:
       - type: string
         name: anrede
         label: Anrede
-        description: 'The name of the field, submitted with the form'
+        description: 'Feldname, mit dem Formular übermittelt'
         required: true
       - type: string
         name: label
