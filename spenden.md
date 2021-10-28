@@ -17,7 +17,7 @@ sections:
         
 
         
-
+      <br>
       Bei Attac ist [**finanzielle
       Transparenz**](http://www.attac-netzwerk.de/index.php?id=1429)
       selbstverständlich – Mitglieder und Spender_innen haben ein Recht darauf
