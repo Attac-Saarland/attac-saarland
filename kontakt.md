@@ -5,7 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     title: Für eine starke Zivilgesellschaft!
-    subtitle: Einverständniserklärung
+    subtitle: Unterstützen
     content: >
       Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
       für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
