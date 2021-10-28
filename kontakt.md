@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: form_section
     section_id: contact-form
-    title: Kontakt
+    title: Spendenaufruf
     subtitle: Nachricht senden
     content: >
       Wenn Sie eine Frage haben oder einen Termin für ein Erstgespräch
