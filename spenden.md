@@ -488,7 +488,7 @@ sections:
       - input_type: checkbox
         name: post
         label: Ich möchte mehr Infos über Attac per Post.
-        
+        is_required: false
       - input_type: checkbox
         name: consent
         label: >-
