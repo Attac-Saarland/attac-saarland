@@ -114,7 +114,7 @@ sections:
         is_required: true
       - input_type: text
         name: strasse
-        label: Straße und Hausnummer*
+        label: Straße und Hausnummer *
         default_value: Straße
         is_required: true
       - input_type: number
