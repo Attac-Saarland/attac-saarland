@@ -1606,7 +1606,8 @@ models:
         name: post
         label: Post bekommen
         description: 'The name of the field, submitted with the form'
-        required: false        
+        required: false
+      
       - type: string
         name: label
         label: Label
