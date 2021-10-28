@@ -17,32 +17,6 @@ sections:
       Spender_innen haben ein Recht darauf zu erfahren, was mit ihrem Geld
       geschieht. Deshalb kann jede_r einen Blick auf unsere Finanzen werfen.
       **Weitere Infos**
-
-
-      ## Mitglied werden - jetzt erst recht! 
-
-
-      Eine Attac-Mitgliedschaft stärkt unsere politischen Alternativen auch mit
-      Deiner Stimme. Mit wenigen Klicks kannst Du hier **Attac-Mitglied werden**
-      und unseren Forderungen mehr Gewicht verleihen! 
-
-
-      Weitere Infos
-
-
-      ## Deine Daten 
-
-
-      Ab Februar 2014 löst das sogenannte **SEPA-Verfahren** bisherige
-      Zahlungsverfahren ab. Es betrifft alle Zahlungsvorgänge – und damit auch
-      alle Überweisungen und Einzüge zugunsten von Attac. Wir haben einige
-      Informationen dazu zusammengestellt. Weitere Infos
-
-
-      **Datenschutz** ist uns wichtig. Wir machen jederzeit transparent, zu
-      welchen Zwecken wir Deine Daten verwenden. Wir speichern niemals Daten
-      ohne Dein Einverständnis und ausschließlich bei Diensten, die das zwingend
-      erfordern. Weitere Infos
     content: >
       ![Finance for the
       people](/unterstuetzen/images/finance-for-the-people-900.jpg)  
