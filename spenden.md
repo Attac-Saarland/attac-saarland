@@ -141,6 +141,7 @@ sections:
         name: land
         label: Land
         default_value: Deutschland
+        options:
         is_required: false
       - input_type: textarea
         name: message
