@@ -96,7 +96,8 @@ sections:
 
 
       (Felder mit \* müssen ausgefüllt werden)
-    spendenkonto: 
+    spendenkonto: >
+    
     form_id: contactForm
     form_action: /thank-you
     form_fields:
