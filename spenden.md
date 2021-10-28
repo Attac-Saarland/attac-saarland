@@ -119,7 +119,7 @@ sections:
         is_required: true
       - input_type: number
         name: plz
-        label: PLZ*
+        label: PLZ *
         default_value: Ihre Postleitzahl
         is_required: true
       - input_type: text
