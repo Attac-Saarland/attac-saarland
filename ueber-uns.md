@@ -2,7 +2,7 @@
 title: Über Attac
 seo:
   title: Über Attac
-  description: Über Attac
+  description: Alles was ihr schon immer über uns wissen wolltet
   extra:
     - name: 'og:type'
       value: website
