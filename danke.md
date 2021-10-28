@@ -3,7 +3,7 @@ title: Danke!
 sections:
   - type: hero_section
     title: Danke
-    subtitle: Danke für Ihr Interesse an Attac!
+    subtitle: Danke für Ihre Spende!
     actions:
       - label: Zurück zur Homepage
         url: /
