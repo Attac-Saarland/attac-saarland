@@ -1617,7 +1617,7 @@ models:
         required: false
       - tpye: string
         name: iban
-        label: Bankverbindung
+        label: IBAN
         description: 'The name of the field, submitted with the form'
         required: true
       - tpye: string
