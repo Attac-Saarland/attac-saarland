@@ -479,6 +479,11 @@ sections:
         label: Kommentar
         default_value: Kommentar zur Spende
         is_required: false
+      - input_type: textarea
+        name: message
+        label: Kommentar
+        default_value: Kommentar zur Spende
+        is_required: true
       - input_type: checkbox
         name: newsletter
         label: Ich möchte den Attac-Newsletter abonnieren.
