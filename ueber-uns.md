@@ -1,5 +1,5 @@
 ---
-title: Über Attac
+title: Über uns
 seo:
   title: Über Attac
   description: Alles was ihr schon immer über uns wissen wolltet
