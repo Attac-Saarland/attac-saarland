@@ -140,7 +140,7 @@ sections:
       - input_type: select
         name: land
         label: Land
-        default_value
+        default_value: Deutschland
         is_required: false
       - input_type: textarea
         name: message
