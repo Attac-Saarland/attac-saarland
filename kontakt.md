@@ -7,7 +7,11 @@ sections:
     title: Für eine starke Zivilgesellschaft!
     subtitle: Unterstützen
     content: >
-      ![Finance for the people](/unterstuetzen/images/finance-for-the-people-900.jpg)
+      ![Finance for the
+      people](/unterstuetzen/images/finance-for-the-people-900.jpg)
+
+
+      \<br>
 
 
       Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
@@ -28,6 +32,9 @@ sections:
 
 
       ##### **Vielen Dank für Deine Unterstützung!**
+
+
+      (Felder mit \* müssen ausgefüllt werden)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
