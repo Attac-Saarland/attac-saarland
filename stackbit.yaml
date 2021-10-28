@@ -1201,7 +1201,7 @@ models:
         description: The text content of the section
       - type: markdown
         name: add-text
-        label: Weitere Infos
+        label: Gut zu wissen
         description: zusätzlicher Text unter dem Kontakt-Formular
       - type: enum
         name: content_align
