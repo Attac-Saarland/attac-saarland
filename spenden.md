@@ -491,6 +491,10 @@ sections:
         name: first
         label: Vorname
         is_required: true
+      - input_type: string
+        name: first
+        label: Vorname
+        is_required: true
       - input_type: checkbox
         name: newsletter
         label: Ich möchte den Attac-Newsletter abonnieren.
