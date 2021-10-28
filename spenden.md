@@ -106,7 +106,6 @@ sections:
         options: 
           - Mann
           - Frau
-          - Keine
         is_required: true
       - input_type: text
         name: name
