@@ -1617,7 +1617,8 @@ models:
         required: false
       - tpye: string
         name: konto
-        
+        label: Bankverbindung
+        d
       - type: string
         name: label
         label: Label
