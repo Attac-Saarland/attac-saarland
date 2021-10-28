@@ -484,6 +484,7 @@ sections:
       - input_type: checkbox
         name: newsletter
         label: Ich möchte den Attac-Newsletter abonnieren
+        
       - input_type: checkbox
         name: consent
         label: >-
