@@ -1,0 +1,69 @@
+{
+    "title": "Attac Saar",
+    "layout_type": "full-width",
+    "style": "minimal",
+    "palette": "red",
+    "mode": "light",
+    "base_font": "sans-serif",
+    "favicon": "/images/favicon.ico",
+    "header": {
+        "title": "Attac Saar",
+        "logo": "/images/logo.jpg",
+        "logo_alt": "Logo Attac",
+        "has_primary_nav": false,
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "20 Jahre Attac",
+                "url": "20-jahre",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Über uns",
+                "url": "/ueber-uns",
+                "style": "link"
+            },
+            {
+                "label": "Sklavenlos",
+                "url": "/sklavenlos",
+                "style": "link"
+            },
+            {
+                "label": "Unterstützen!",
+                "url": "/unterstuetzen",
+                "style": "link"
+            },
+            {
+                "label": "Unsere Themen",
+                "url": "themen",
+                "style": "primary"
+            }
+        ],
+        "has_anncmnt": false,
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
+    },
+    "footer": {
+        "has_primary_nav": false,
+        "has_secondary_nav": false,
+        "has_tertiary_nav": false,
+        "has_social": false,
+        "content": "Attac Saar"
+    },
+    "domain": "https://saarcode.de"
+}
