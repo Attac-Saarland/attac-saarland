@@ -115,7 +115,7 @@ sections:
       - input_type: text
         name: strasse
         label: Straße und Hausnummer*
-        default_value: Ihr Name
+        default_value: Straße
         is_required: true
       - input_type: email
         name: email
