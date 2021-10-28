@@ -1207,6 +1207,10 @@ models:
         name: spendenkonto
         label: Spendenkonto
         description: Bankdaten Attac
+      - type: markdown
+        name: mitglieddaten
+        label: Mitglied werden
+        description: Datenschutz
       - type: enum
         name: content_align
         label: Ausrichtung Inhalt
