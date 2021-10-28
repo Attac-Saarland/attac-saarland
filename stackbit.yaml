@@ -1553,7 +1553,7 @@ models:
           - textarea
         description: Type of the form field
         required: true
-            - type: string
+      - type: string
         name: anrede
         label: Anrede
         description: 'Feldname, mit dem Formular übermittelt'
