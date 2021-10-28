@@ -97,7 +97,7 @@ sections:
 
       (Felder mit \* müssen ausgefüllt werden)
     spendenkonto: >
-            ## Spendenkonto 
+      ## Spendenkonto 
 
 
       Attac Trägerverein e.V. 
