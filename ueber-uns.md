@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Über uns
+      value: Über Attac
       keyName: property
     - name: 'og:description'
       value: Über Attac
