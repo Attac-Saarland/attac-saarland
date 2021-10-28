@@ -469,6 +469,7 @@ sections:
         - 50,-€
         - 75,-€
         - 100,-€
+        - freier Betrag
         is_required: true
       - input_type: textarea
         name: message
