@@ -120,7 +120,7 @@ sections:
       - input_type: text
         name: plz
         label: PLZ*
-        default_value: Ihr Name
+        default_value: Ihre Postleitzahl
         is_required: true
       - input_type: email
         name: email
