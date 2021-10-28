@@ -550,8 +550,8 @@ sections:
           *   Jour fixe-Treffen (monatlich)
         content_align: left
         actions:
-          - label: Kontakt
-            url: /thank-you
+          - label: Mitmachen
+            url: /unterstuetzen
             style: primary
         actions_align: left
         actions_width: full-width
@@ -570,8 +570,8 @@ sections:
           *   Mitreden, mitgestalten
         content_align: left
         actions:
-          - label: Kontakt
-            url: /thank-you
+          - label: Mitmachen
+            url: /unterstuetzen
             style: primary
         actions_align: left
         actions_width: full-width
@@ -590,8 +590,8 @@ sections:
           *   Andere inspirieren
         content_align: left
         actions:
-          - label: Kontakt
-            url: /thank-you
+          - label: Mitmachen
+            url: /unterstuetzen
             style: primary
         actions_align: left
         actions_width: full-width
@@ -678,8 +678,8 @@ sections:
   - type: cta_section
     title: Ein anderes Saarland ist möglich.
     actions:
-      - label: Unterstützen
-        url: /unterstuetzen
+      - label: Spenden
+        url: /spenden
         style: primary
         has_icon: true
         icon: arrow-right
