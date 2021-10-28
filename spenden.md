@@ -481,7 +481,7 @@ sections:
         is_required: false
       - input_type: number
         name: iban
-        label: IBAN
+        label: IBAN *
         is_required: true
       - input_type: number
         name: bic
