@@ -1560,7 +1560,7 @@ models:
         required: true
       - type: string
         name: anrede
-        label: Name
+        label: Anrede
         description: 'The name of the field, submitted with the form'
         required: true
       - type: string
