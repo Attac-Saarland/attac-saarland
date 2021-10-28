@@ -11,7 +11,6 @@ sections:
       people](/unterstuetzen/images/finance-for-the-people-900.jpg)
 
 
-      \<br>
 
 
       Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
