@@ -479,7 +479,7 @@ sections:
         label: Kommentar
         default_value: Kommentar zur Spende
         is_required: false
-      - input_type: text
+      - input_type: number
         name: konto
         label: IBAN
         is_required: true
