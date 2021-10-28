@@ -1,5 +1,5 @@
 ---
-title: Über uns
+title: Über Attac
 seo:
   title: Über uns
   description: This is the about us page
