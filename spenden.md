@@ -474,7 +474,7 @@ sections:
       - input_type: text
         name: freibetrag
         label: Freier Betrag
-        default_value: frei wählbarer runder Betrag ab 2 
+        default_value: frei wählbarer runder Betrag ab 2 Euro
         is_required: false
       - input_type: textarea
         name: message
