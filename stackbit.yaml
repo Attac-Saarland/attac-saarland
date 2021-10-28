@@ -1580,7 +1580,8 @@ models:
         required: false
       - type: number
         name: jahr
-        label: Gebur
+        label: Geburtsjahr
+        des
       - type: string
         name: name
         label: Name
