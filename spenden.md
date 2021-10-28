@@ -472,7 +472,8 @@ sections:
         - freier Betrag
         is_required: true
       - input_type: text
-        name: 
+        name: freibetrag
+        label: 
       - input_type: textarea
         name: message
         label: Kommentar
