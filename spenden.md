@@ -114,7 +114,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: E-Mail*
+        label: E-Mail
         default_value: Ihre E-Mail-Adresse
         is_required: true
       - input_type: tel
