@@ -96,6 +96,7 @@ sections:
 
 
       (Felder mit \* müssen ausgefüllt werden)
+    
     form_id: contactForm
     form_action: /thank-you
     form_fields:
