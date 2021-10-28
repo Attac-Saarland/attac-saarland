@@ -122,8 +122,8 @@ sections:
         label: PLZ*
         default_value: Ihre Postleitzahl
       - input_type: text
-        name: name
-        label: Name*
+        name: ort
+        label: Ort*
         default_value: Ihr Name
         is_required: true
         is_required: true
