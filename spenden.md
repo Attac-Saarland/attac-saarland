@@ -512,7 +512,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Ich habe die <a href="">Datenschutzbestimmungen</a>
+          Ich habe die <a href="https://www.attac.de/datenschutz">Datenschutzbestimmungen</a>
           gelesen und erkenne sie an.
         is_required: true
     submit_label: Spenden
