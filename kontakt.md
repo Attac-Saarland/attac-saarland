@@ -6,7 +6,7 @@ sections:
     section_id: contact-form
     title: Für eine starke Zivilgesellschaft!
     subtitle: Unterstützen
-    add-text: 
+    add-text: ''
     content: >
       ![Finance for the
       people](/unterstuetzen/images/finance-for-the-people-900.jpg)  
