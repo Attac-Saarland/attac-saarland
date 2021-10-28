@@ -16,4 +16,5 @@ sections:
     background_color: none
 layout: advanced
 ---
-## Ve
+## Vielen Dank, dass Sie uns unterstützen!
+### Daten verarbeitet
