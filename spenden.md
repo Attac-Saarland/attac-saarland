@@ -480,7 +480,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Kontakt
+      value: Spende
       keyName: property
     - name: 'og:description'
       value: Attac unterstützen
