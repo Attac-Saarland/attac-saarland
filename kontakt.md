@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: form_section
     section_id: contact-form
-    title: Spendenaufruf
+    title: Für eine starke Zivilgesellschaft!
     subtitle: Einverständniserklärung
     content: >
       Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
