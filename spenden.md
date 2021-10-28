@@ -142,7 +142,7 @@ sections:
         label: Land
         default_value: Deutschland
         options:
-          -     - Deutschland
+        - Deutschland
         - Albanien
         - Bosnien und Herzegowina
         - Andorra
