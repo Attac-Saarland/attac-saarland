@@ -1,7 +1,7 @@
 ---
 title: Über Attac
 seo:
-  title: Über uns
+  title: Über Attac
   description: This is the about us page
   extra:
     - name: 'og:type'
