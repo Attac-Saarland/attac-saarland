@@ -118,7 +118,7 @@ sections:
         default_value: Straße
         is_required: true
       - input_type: text
-        name: name
+        name: plz
         label: Name*
         default_value: Ihr Name
         is_required: true
