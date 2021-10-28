@@ -72,7 +72,7 @@ seo:
       value: Kontakt
       keyName: property
     - name: 'og:description'
-      value: Dies ist die Kontaktseite
+      value: Attac unterstützen
       keyName: property
     - name: 'twitter:card'
       value: summary
