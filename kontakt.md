@@ -5,7 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     title: Spendenaufruf
-    subtitle: Nachricht senden
+    subtitle: Einverständniserklärung
     content: >
       Wenn Sie eine Frage haben oder einen Termin für ein Erstgespräch
       vereinbaren möchten, senden Sie mir eine Nachricht.
