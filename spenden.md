@@ -105,7 +105,7 @@ sections:
         default_value: Ihr Name
         is_required: true
       - input_type: text
-        name: name
+        name: anrede
         label: Anrede*
         default_value: Frau
         is_required: true
