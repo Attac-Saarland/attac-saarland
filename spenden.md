@@ -479,11 +479,11 @@ sections:
         label: Kommentar
         default_value: Kommentar zur Spende
         is_required: false
-      - input_type: number
+      - input_type: text
         name: iban
         label: IBAN *
         is_required: true
-      - input_type: number
+      - input_type: text
         name: bic
         label: BIC *
         is_required: true
