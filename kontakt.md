@@ -75,5 +75,5 @@ seo:
       value: Kontakt
     - name: 'twitter:description'
       value: Dies ist die Kontaktseite
-layout: post
+layout: advanced
 ---
