@@ -69,6 +69,7 @@ sections:
 
 
       Weitere Infos
+    mi
     form_id: contactForm
     form_action: /thank-you
     form_fields:
