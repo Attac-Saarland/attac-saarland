@@ -63,7 +63,7 @@ sections:
     submit_label: Spenden
 seo:
   title: Kontakt
-  description: Dies ist die Kontaktseite
+  description: Attac unterstützen
   extra:
     - name: 'og:type'
       value: website
