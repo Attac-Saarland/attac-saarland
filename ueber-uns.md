@@ -11,7 +11,7 @@ seo:
       value: Über uns
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Über Attac
       keyName: property
     - name: 'og:image'
       value: images/ueber-uns/finance-for-the-people-900.jpg
