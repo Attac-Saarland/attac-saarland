@@ -487,6 +487,10 @@ sections:
         name: bic
         label: BIC
         is_required: true
+      - input_type: number
+        name: bic
+        label: BIC
+        is_required: true
       - input_type: checkbox
         name: newsletter
         label: Ich möchte den Attac-Newsletter abonnieren.
