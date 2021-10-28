@@ -139,7 +139,7 @@ sections:
         is_required: true
       - input_type: select
         name: land
-        label: 
+        label: Land
       - input_type: textarea
         name: message
         label: Kommentar
