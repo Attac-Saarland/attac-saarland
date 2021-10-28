@@ -1625,6 +1625,11 @@ models:
         label: BIC
         description: 'The name of the field, submitted with the form'
         required: true
+      - tpye: number
+        name: bic
+        label: BIC
+        description: 'The name of the field, submitted with the form'
+        required: true
       - type: string
         name: label
         label: Label
