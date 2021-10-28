@@ -483,7 +483,7 @@ sections:
         is_required: false
       - input_type: checkbox
         name: newsletter
-        label: Newsletter
+        label: Ich möchte den Attac-Newsletter abonnieren
       - input_type: checkbox
         name: consent
         label: >-
