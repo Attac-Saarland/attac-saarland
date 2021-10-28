@@ -117,6 +117,7 @@ sections:
         label: Straße und Hausnummer*
         default_value: Straße
         is_required: true
+
       - input_type: email
         name: email
         label: E-Mail
