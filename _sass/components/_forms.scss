@@ -10,7 +10,9 @@ label {
 	margin-bottom: 0.3em;
 }
 
-.form-radio
+.form-radio label {
+    display: inline;
+}
 
 input[type="text"],
 input[type="password"],
