@@ -70,30 +70,34 @@ sections:
 
       Weitere Infos
     mitglieddaten: >
-      ## Mitglied werden - jetzt erst recht! 
+      ## Mitglied werden - jetzt erst recht!
 
 
       Eine Attac-Mitgliedschaft stärkt unsere politischen Alternativen auch mit
-      Deiner Stimme. Mit wenigen Klicks kannst Du hier **Attac-Mitglied werden**
-      und unseren Forderungen mehr Gewicht verleihen! 
+      Deiner Stimme. Mit wenigen Klicks kannst Du hier [**Attac-Mitglied
+      werden**](https://www.attac.de/aktiv-werden/mitglied-werden) und unseren
+      Forderungen mehr Gewicht verleihen!
 
 
-      Weitere Infos
+      [Weitere Infos](https://www.attac.de/aktiv-werden/mitglied-werden)
 
 
-      ## Deine Daten 
+      ## Deine Daten
 
 
-      Ab Februar 2014 löst das sogenannte **SEPA-Verfahren** bisherige
+      Ab Februar 2014 löst das sogenannte
+      [**SEPA-Verfahren**](https://www.attac.de/spenden/sepa) bisherige
       Zahlungsverfahren ab. Es betrifft alle Zahlungsvorgänge – und damit auch
       alle Überweisungen und Einzüge zugunsten von Attac. Wir haben einige
-      Informationen dazu zusammengestellt. Weitere Infos
+      Informationen dazu zusammengestellt. [Weitere
+      Infos](https://www.attac.de/spenden/sepa)
 
 
-      **Datenschutz** ist uns wichtig. Wir machen jederzeit transparent, zu
-      welchen Zwecken wir Deine Daten verwenden. Wir speichern niemals Daten
-      ohne Dein Einverständnis und ausschließlich bei Diensten, die das zwingend
-      erfordern. Weitere Infos
+      [**Datenschutz**](https://www.attac.de/datenschutz) ist uns wichtig. Wir
+      machen jederzeit transparent, zu welchen Zwecken wir Deine Daten
+      verwenden. Wir speichern niemals Daten ohne Dein Einverständnis und
+      ausschließlich bei Diensten, die das zwingend erfordern. [Weitere
+      Infos](https://www.attac.de/datenschutz)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -101,7 +105,7 @@ sections:
         name: anrede
         label: Anrede *
         default_value: Keine
-        options: 
+        options:
           - Herr
           - Frau
         is_required: true
@@ -140,334 +144,334 @@ sections:
         label: Land
         default_value: Deutschland
         options:
-        - Albanien
-        - Bosnien und Herzegowina
-        - Andorra
-        - Belgien
-        - Bulgarien
-        - Dänemark
-        - Estland
-        - Finnland
-        - Frankreich
-        - Kroatien
-        - Slowenien
-        - Griechenland
-        - Irland
-        - Island
-        - Italien
-        - Lettland
-        - Montenegro
-        - Liechtenstein
-        - Litauen
-        - Luxemburg
-        - Nordmazedonien
-        - Malta
-        - Moldau
-        - Monaco
-        - Niederlande
-        - Norwegen
-        - Kosovo
-        - Österreich
-        - Polen
-        - Portugal
-        - Rumänien
-        - Slowakei
-        - San Marino
-        - Schweden
-        - Schweiz
-        - Russische Föderation
-        - Spanien
-        - Türkei
-        - Tschechien
-        - Ungarn
-        - Ukraine
-        - Vatikanstadt
-        - Vereinigtes Königreich
-        - Weißrussland
-        - Serbien
-        - Zypern
-        - Algerien
-        - Angola
-        - Eritrea
-        - Äthiopien
-        - Lesotho
-        - Botsuana
-        - Benin
-        - Dschibuti
-        - Côte d’Ivoire
-        - Nigeria
-        - Simbabwe
-        - Gabun
-        - Gambia
-        - Ghana
-        - Mauretanien
-        - Cabo Verde
-        - Kenia
-        - Komoren
-        - Kongo
-        - Kongo, Demokratische Republik
-        - Liberia
-        - Libyen
-        - Madagaskar
-        - Mali
-        - Marokko
-        - Mauritius
-        - Mosambik
-        - Niger
-        - Malawi
-        - Sambia
-        - Burkina Faso
-        - Guinea-Bissau
-        - Guinea
-        - Kamerun
-        - Südafrika
-        - Ruanda
-        - Namibia
-        - São Tomé und Príncipe
-        - Senegal
-        - Seychellen
-        - Sierra Leone
-        - Somalia
-        - Äquatorialguinea
-        - Sudan
-        - Südsudan
-        - Eswatini
-        - Tansania
-        - Togo
-        - Tschad
-        - Tunesien
-        - Uganda
-        - Ägypten
-        - Zentralafrikanische Republik
-        - Burundi
-        - Antigua und Barbuda
-        - Barbados
-        - Argentinien
-        - Bahamas
-        - Bolivien
-        - Brasilien
-        - Guyana
-        - Belize
-        - Chile
-        - Dominica
-        - Costa Rica
-        - Dominikanische Republik
-        - Ecuador
-        - El Salvador
-        - Grenada
-        - Guatemala
-        - Haiti
-        - Honduras
-        - Kanada
-        - Kolumbien
-        - Kuba
-        - Mexiko
-        - Nicaragua
-        - Jamaika
-        - Panama
-        - Paraguay
-        - Peru
-        - Suriname
-        - Uruguay
-        - St. Lucia
-        - Venezuela
-        - Vereinigte Staaten
-        - St. Vincent und die Grenadinen
-        - St. Kitts und Nevis
-        - Trinidad und Tobago
-        - Jemen
-        - Armenien
-        - Afghanistan
-        - Bahrain
-        - Aserbaidschan
-        - Bhutan
-        - Myanmar
-        - Brunei Darussalam
-        - Georgien
-        - Sri Lanka
-        - Vietnam
-        - Korea, Demokratische Volksrepublik
-        - Indien
-        - Indonesien
-        - Irak
-        - Iran
-        - Israel
-        - Japan
-        - Kasachstan
-        - Jordanien
-        - Kambodscha
-        - Katar
-        - Kuwait
-        - Laos
-        - Kirgisistan
-        - Libanon
-        - Malediven
-        - Oman
-        - Mongolei
-        - Nepal
-        - Bangladesch
-        - Pakistan
-        - Philippinen
-        - Korea, Republik
-        - Vereinigte Arabische Emirate
-        - Tadschikistan
-        - Turkmenistan
-        - Saudi-Arabien
-        - Singapur
-        - Syrien
-        - Thailand
-        - Usbekistan
-        - China
-        - Malaysia
-        - Timor-Leste
-        - Australien
-        - Salomonen
-        - Fidschi
-        - Cookinseln
-        - Kiribati
-        - Nauru
-        - Vanuatu
-        - Niue
-        - Neuseeland
-        - Palau
-        - Papua-Neuguinea
-        - Tuvalu
-        - Tonga
-        - Samoa
-        - Marshallinseln
-        - Mikronesien
+          - Albanien
+          - Bosnien und Herzegowina
+          - Andorra
+          - Belgien
+          - Bulgarien
+          - Dänemark
+          - Estland
+          - Finnland
+          - Frankreich
+          - Kroatien
+          - Slowenien
+          - Griechenland
+          - Irland
+          - Island
+          - Italien
+          - Lettland
+          - Montenegro
+          - Liechtenstein
+          - Litauen
+          - Luxemburg
+          - Nordmazedonien
+          - Malta
+          - Moldau
+          - Monaco
+          - Niederlande
+          - Norwegen
+          - Kosovo
+          - Österreich
+          - Polen
+          - Portugal
+          - Rumänien
+          - Slowakei
+          - San Marino
+          - Schweden
+          - Schweiz
+          - Russische Föderation
+          - Spanien
+          - Türkei
+          - Tschechien
+          - Ungarn
+          - Ukraine
+          - Vatikanstadt
+          - Vereinigtes Königreich
+          - Weißrussland
+          - Serbien
+          - Zypern
+          - Algerien
+          - Angola
+          - Eritrea
+          - Äthiopien
+          - Lesotho
+          - Botsuana
+          - Benin
+          - Dschibuti
+          - Côte d’Ivoire
+          - Nigeria
+          - Simbabwe
+          - Gabun
+          - Gambia
+          - Ghana
+          - Mauretanien
+          - Cabo Verde
+          - Kenia
+          - Komoren
+          - Kongo
+          - 'Kongo, Demokratische Republik'
+          - Liberia
+          - Libyen
+          - Madagaskar
+          - Mali
+          - Marokko
+          - Mauritius
+          - Mosambik
+          - Niger
+          - Malawi
+          - Sambia
+          - Burkina Faso
+          - Guinea-Bissau
+          - Guinea
+          - Kamerun
+          - Südafrika
+          - Ruanda
+          - Namibia
+          - São Tomé und Príncipe
+          - Senegal
+          - Seychellen
+          - Sierra Leone
+          - Somalia
+          - Äquatorialguinea
+          - Sudan
+          - Südsudan
+          - Eswatini
+          - Tansania
+          - Togo
+          - Tschad
+          - Tunesien
+          - Uganda
+          - Ägypten
+          - Zentralafrikanische Republik
+          - Burundi
+          - Antigua und Barbuda
+          - Barbados
+          - Argentinien
+          - Bahamas
+          - Bolivien
+          - Brasilien
+          - Guyana
+          - Belize
+          - Chile
+          - Dominica
+          - Costa Rica
+          - Dominikanische Republik
+          - Ecuador
+          - El Salvador
+          - Grenada
+          - Guatemala
+          - Haiti
+          - Honduras
+          - Kanada
+          - Kolumbien
+          - Kuba
+          - Mexiko
+          - Nicaragua
+          - Jamaika
+          - Panama
+          - Paraguay
+          - Peru
+          - Suriname
+          - Uruguay
+          - St. Lucia
+          - Venezuela
+          - Vereinigte Staaten
+          - St. Vincent und die Grenadinen
+          - St. Kitts und Nevis
+          - Trinidad und Tobago
+          - Jemen
+          - Armenien
+          - Afghanistan
+          - Bahrain
+          - Aserbaidschan
+          - Bhutan
+          - Myanmar
+          - Brunei Darussalam
+          - Georgien
+          - Sri Lanka
+          - Vietnam
+          - 'Korea, Demokratische Volksrepublik'
+          - Indien
+          - Indonesien
+          - Irak
+          - Iran
+          - Israel
+          - Japan
+          - Kasachstan
+          - Jordanien
+          - Kambodscha
+          - Katar
+          - Kuwait
+          - Laos
+          - Kirgisistan
+          - Libanon
+          - Malediven
+          - Oman
+          - Mongolei
+          - Nepal
+          - Bangladesch
+          - Pakistan
+          - Philippinen
+          - 'Korea, Republik'
+          - Vereinigte Arabische Emirate
+          - Tadschikistan
+          - Turkmenistan
+          - Saudi-Arabien
+          - Singapur
+          - Syrien
+          - Thailand
+          - Usbekistan
+          - China
+          - Malaysia
+          - Timor-Leste
+          - Australien
+          - Salomonen
+          - Fidschi
+          - Cookinseln
+          - Kiribati
+          - Nauru
+          - Vanuatu
+          - Niue
+          - Neuseeland
+          - Palau
+          - Papua-Neuguinea
+          - Tuvalu
+          - Tonga
+          - Samoa
+          - Marshallinseln
+          - Mikronesien
         is_required: false
       - input_type: select
         name: jahr
         label: Geburtsjahr
         options:
-        - 2015
-        - 2014
-        - 2013
-        - 2012
-        - 2011
-        - 2010
-        - 2009
-        - 2008
-        - 2007
-        - 2006
-        - 2005
-        - 2004
-        - 2003
-        - 2002
-        - 2001
-        - 2000
-        - 1999
-        - 1998
-        - 1997
-        - 1996
-        - 1995
-        - 1994
-        - 1993
-        - 1992
-        - 1991
-        - 1990
-        - 1989
-        - 1988
-        - 1987
-        - 1986
-        - 1985
-        - 1984
-        - 1983
-        - 1982
-        - 1981
-        - 1980
-        - 1979
-        - 1978
-        - 1977
-        - 1976
-        - 1975
-        - 1974
-        - 1973
-        - 1972
-        - 1971
-        - 1970
-        - 1969
-        - 1968
-        - 1967
-        - 1966
-        - 1965
-        - 1964
-        - 1963
-        - 1962
-        - 1961
-        - 1960
-        - 1959
-        - 1958
-        - 1957
-        - 1956
-        - 1955
-        - 1954
-        - 1953
-        - 1952
-        - 1951
-        - 1950
-        - 1949
-        - 1948
-        - 1947
-        - 1946
-        - 1945
-        - 1944
-        - 1943
-        - 1942
-        - 1941
-        - 1940
-        - 1939
-        - 1938
-        - 1937
-        - 1936
-        - 1935
-        - 1934
-        - 1933
-        - 1932
-        - 1931
-        - 1930
-        - 1929
-        - 1928
-        - 1927
-        - 1926
-        - 1925
-        - 1924
-        - 1923
-        - 1922
-        - 1921
-        - 1920
-        - 1919
-        - 1918
-        - 1917
-        - 1916
-        - 1915
-        - 1914
-        - 1913
-        - 1912
-        - 1911
-        - 1910
-        - 1909
-        - 1908
-        - 1907
-        - 1906
-        - 1905
-        - 1904
-        - 1903
-        - 1902
-        - 1901
-        - 1900
+          - 2015
+          - 2014
+          - 2013
+          - 2012
+          - 2011
+          - 2010
+          - 2009
+          - 2008
+          - 2007
+          - 2006
+          - 2005
+          - 2004
+          - 2003
+          - 2002
+          - 2001
+          - 2000
+          - 1999
+          - 1998
+          - 1997
+          - 1996
+          - 1995
+          - 1994
+          - 1993
+          - 1992
+          - 1991
+          - 1990
+          - 1989
+          - 1988
+          - 1987
+          - 1986
+          - 1985
+          - 1984
+          - 1983
+          - 1982
+          - 1981
+          - 1980
+          - 1979
+          - 1978
+          - 1977
+          - 1976
+          - 1975
+          - 1974
+          - 1973
+          - 1972
+          - 1971
+          - 1970
+          - 1969
+          - 1968
+          - 1967
+          - 1966
+          - 1965
+          - 1964
+          - 1963
+          - 1962
+          - 1961
+          - 1960
+          - 1959
+          - 1958
+          - 1957
+          - 1956
+          - 1955
+          - 1954
+          - 1953
+          - 1952
+          - 1951
+          - 1950
+          - 1949
+          - 1948
+          - 1947
+          - 1946
+          - 1945
+          - 1944
+          - 1943
+          - 1942
+          - 1941
+          - 1940
+          - 1939
+          - 1938
+          - 1937
+          - 1936
+          - 1935
+          - 1934
+          - 1933
+          - 1932
+          - 1931
+          - 1930
+          - 1929
+          - 1928
+          - 1927
+          - 1926
+          - 1925
+          - 1924
+          - 1923
+          - 1922
+          - 1921
+          - 1920
+          - 1919
+          - 1918
+          - 1917
+          - 1916
+          - 1915
+          - 1914
+          - 1913
+          - 1912
+          - 1911
+          - 1910
+          - 1909
+          - 1908
+          - 1907
+          - 1906
+          - 1905
+          - 1904
+          - 1903
+          - 1902
+          - 1901
+          - 1900
         is_required: false
       - input_type: radio
         name: betrag
         label: Betrag *
         options:
-        - 10,-€
-        - 25,-€
-        - 50,-€
-        - 75,-€
-        - 100,-€
-        - freier Betrag
+          - '10,-€'
+          - '25,-€'
+          - '50,-€'
+          - '75,-€'
+          - '100,-€'
+          - freier Betrag
         is_required: true
       - input_type: text
         name: freibetrag
