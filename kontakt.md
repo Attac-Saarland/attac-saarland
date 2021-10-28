@@ -14,8 +14,7 @@ sections:
       Stirn bieten. Damit uns das gelingt, sind wir auf Spenden angewiesen.
 
 
-
-      **Mit Deiner tatkräftigen Hilfe können wir viel bewegen!**
+      ##### **Mit Deiner tatkräftigen Hilfe können wir viel bewegen!**
 
 
       Mit diesem Formular kannst Du uns bequem mit Deiner Spende unterstützen.
@@ -25,7 +24,7 @@ sections:
       lassen.
 
 
-      **Vielen Dank für Deine Unterstützung!**
+      ##### **Vielen Dank für Deine Unterstützung!**
     form_id: contactForm
     form_action: /thank-you
     form_fields:
