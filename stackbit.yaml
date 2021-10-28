@@ -1615,7 +1615,7 @@ models:
         label: Post bekommen
         description: 'The name of the field, submitted with the form'
         required: false
-      - tpye: string
+      - tpye: number
         name: iban
         label: IBAN
         description: 'The name of the field, submitted with the form'
