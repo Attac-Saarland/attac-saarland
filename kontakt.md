@@ -46,7 +46,7 @@ sections:
         is_required: true
       - input_type: tel
         name: phone
-        label: Telefonnummer
+        label: Telefonnummer*
         default_value: Ihre Telefonnummer
         is_required: true
       - input_type: textarea
