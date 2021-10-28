@@ -101,7 +101,7 @@ sections:
     form_fields:
       - input_type: select
         name: anrede
-        label: Anrede*
+        label: Anrede *
         default_value: Keine
         options: 
           - Mann
