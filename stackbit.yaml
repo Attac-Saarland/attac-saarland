@@ -1622,7 +1622,7 @@ models:
         required: true
       - tpye: string
         name: bic
-        label: Bankverbindung
+        label: BIC
         description: 'The name of the field, submitted with the form'
         required: true
       - type: string
