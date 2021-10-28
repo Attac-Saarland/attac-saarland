@@ -1620,6 +1620,11 @@ models:
         label: Bankverbindung
         description: 'The name of the field, submitted with the form'
         required: true
+      - tpye: string
+        name: iban
+        label: Bankverbindung
+        description: 'The name of the field, submitted with the form'
+        required: true
       - type: string
         name: label
         label: Label
