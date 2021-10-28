@@ -480,7 +480,7 @@ sections:
         default_value: Kommentar zur Spende
         is_required: false
       - input_type: number
-        name: konto
+        name: iban
         label: IBAN
         is_required: true
       - input_type: checkbox
