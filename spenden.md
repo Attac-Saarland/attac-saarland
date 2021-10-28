@@ -12,9 +12,9 @@ sections:
 
       [**Kampagnen**](https://www.attac.de/kampagnen) sind ein wichtiges Element
       unserer politischen Arbeit. Jede Kampagne bringt uns unseren Visionen ein
-      Stückchen näher. [Weitere Infos](https://www.attac.de/kampagnen)  
+      Stückchen näher. [Weitere Infos](https://www.attac.de/kampagnen)
 
-
+        
 
       Bei Attac ist [**finanzielle
       Transparenz**](http://www.attac-netzwerk.de/index.php?id=1429)
