@@ -1589,7 +1589,7 @@ models:
         label: Name
         description: 'The name of the field, submitted with the form'
         required: true
-      - type: text
+      - type: string
         name: betrag
         label: Betrag
       - type: text
