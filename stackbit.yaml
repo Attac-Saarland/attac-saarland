@@ -1206,7 +1206,7 @@ models:
       - type: markdown
         name: spendenkonto
         label: Spendenkonto
-        description: 
+        description: Bankdaten Attac
       - type: enum
         name: content_align
         label: Ausrichtung Inhalt
