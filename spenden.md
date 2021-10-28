@@ -7,16 +7,19 @@ sections:
     title: Für eine starke Zivilgesellschaft!
     subtitle: Unterstützen
     gutzuwissen: >
-      ## Gut zu wissen 
+      ## Gut zu wissen
 
 
-      **Kampagnen** sind ein wichtiges Element unserer politischen Arbeit. Jede
-      Kampagne bringt uns unseren Visionen ein Stückchen näher. Weitere Infos
+      [**Kampagnen**](https://www.attac.de/kampagnen) sind ein wichtiges Element
+      unserer politischen Arbeit. Jede Kampagne bringt uns unseren Visionen ein
+      Stückchen näher. [Weitere Infos](https://www.attac.de/kampagnen)
 
-      Bei Attac ist finanzielle Transparenz selbstverständlich – Mitglieder und
-      Spender_innen haben ein Recht darauf zu erfahren, was mit ihrem Geld
-      geschieht. Deshalb kann jede_r einen Blick auf unsere Finanzen werfen.
-      **Weitere Infos**
+      Bei Attac ist [**finanzielle
+      Transparenz**](http://www.attac-netzwerk.de/index.php?id=1429)
+      selbstverständlich – Mitglieder und Spender_innen haben ein Recht darauf
+      zu erfahren, was mit ihrem Geld geschieht. Deshalb kann jede_r einen Blick
+      auf unsere Finanzen werfen. [Weitere
+      Infos](http://www.attac-netzwerk.de/index.php?id=1429)
     content: >
       ![Finance for the
       people](/unterstuetzen/images/finance-for-the-people-900.jpg)  
