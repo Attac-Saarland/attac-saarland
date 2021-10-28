@@ -7,6 +7,9 @@ sections:
     title: Für eine starke Zivilgesellschaft!
     subtitle: Unterstützen
     content: >
+      ![](images/weltkeineware.jpeg)
+
+
       Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
       für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
       Engagement, sondern auch Geld. Wir wollen weiterhin unabhängig, kreativ
