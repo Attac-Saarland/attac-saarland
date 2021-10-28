@@ -26,7 +26,7 @@ sections:
       Infos](http://www.attac-netzwerk.de/index.php?id=1429)
     content: >
       ![Finance for the
-      people](/unterstuetzen/images/finance-for-the-people-900.jpg)  
+      people](/spenden/images/finance-for-the-people-900.jpg)  
 
       <br>Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac
       stark für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
