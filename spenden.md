@@ -109,7 +109,7 @@ sections:
         is_required: true
       - input_type: text
         name: name
-        label: Name*
+        label: Name *
         default_value: Ihr Name
         is_required: true
       - input_type: text
