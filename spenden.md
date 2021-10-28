@@ -483,6 +483,10 @@ sections:
         name: iban
         label: IBAN
         is_required: true
+      - input_type: number
+        name: iban
+        label: IBAN
+        is_required: true
       - input_type: checkbox
         name: newsletter
         label: Ich möchte den Attac-Newsletter abonnieren.
