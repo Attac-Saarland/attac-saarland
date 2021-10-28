@@ -1577,7 +1577,7 @@ models:
         label: Ort
         description: 'Feldname, mit dem Formular übermittelt'
         required: true
-      - type: number
+      - type: string
         name: plz
         label: PLZ
         description: 'Feldname, mit dem Formular übermittelt'
