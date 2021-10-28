@@ -1206,6 +1206,7 @@ models:
       - type: markdown
         name: spendenkonto
         label: Spendenkonto
+        description: 
       - type: enum
         name: content_align
         label: Ausrichtung Inhalt
