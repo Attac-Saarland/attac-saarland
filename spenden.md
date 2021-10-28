@@ -462,7 +462,7 @@ sections:
         is_required: false
       - input_type: radio
         name: betrag
-        label: Betrag
+        label: Betrag*
         options:
         - 10,-€
         - 25,-€
