@@ -480,7 +480,7 @@ sections:
         default_value: Kommentar zur Spende
         is_required: false
       - input_type: textarea
-        name: message
+        name: konto
         label: Kommentar
         default_value: Kommentar zur Spende
         is_required: true
