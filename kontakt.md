@@ -7,8 +7,25 @@ sections:
     title: Spendenaufruf
     subtitle: Einverständniserklärung
     content: >
-      Wenn Sie eine Frage haben oder einen Termin für ein Erstgespräch
-      vereinbaren möchten, senden Sie mir eine Nachricht.
+      Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
+      für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
+      Engagement, sondern auch Geld. Wir wollen weiterhin unabhängig, kreativ
+      und erfolgreich die politische Landschaft gestalten und den Mächtigen die
+      Stirn bieten. Damit uns das gelingt, sind wir auf Spenden angewiesen.
+
+
+
+      **Mit Deiner tatkräftigen Hilfe können wir viel bewegen!**
+
+
+      Mit diesem Formular kannst Du uns bequem mit Deiner Spende unterstützen.
+      Eine Einzugsermächtigung spart Zeit und Geld! Alternativ kannst Du auch
+      eine Spende direkt auf unser Spendenkonto überweisen, telefonisch spenden
+      oder ein Spendenformular ausdrucken und uns per Fax oder Post zukommen
+      lassen.
+
+
+      **Vielen Dank für Deine Unterstützung!**
     form_id: contactForm
     form_action: /thank-you
     form_fields:
