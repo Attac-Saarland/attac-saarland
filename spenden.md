@@ -100,6 +100,11 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
+        name: anrede
+        label: Anrede*
+        default_value: Frau
+        is_required: true
+      - input_type: text
         name: name
         label: Name*
         default_value: Ihr Name
