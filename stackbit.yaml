@@ -1592,6 +1592,7 @@ models:
       - type: text
         name: betrag
         label: Betrag
+      - type: text
       - type: string
         name: label
         label: Label
