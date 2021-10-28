@@ -17,7 +17,7 @@
 
 {% elsif field.input_type == 'radio' %}
     <div class="form-radio">
-        <input id="{{ field.name }}" type="radio" name="{{ field.name }}"{% assign label_is_not_empty %}
+        <input id="{{ field.name }}" type="radio" name="{{ field.name }}"{% assign label_is_not_empty  %}
     </div>
 {% endif %}
 {% elsif field.input_type == 'select' %}
