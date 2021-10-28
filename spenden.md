@@ -138,7 +138,8 @@ sections:
         default_value: Ihre Telefonnummer
         is_required: true
       - input_type: select
-        name: 
+        name: land
+        label: 
       - input_type: textarea
         name: message
         label: Kommentar
