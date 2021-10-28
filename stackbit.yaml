@@ -1601,6 +1601,11 @@ models:
         name: newsletter
         label: Newsletter
         description: 'The name of the field, submitted with the form'
+        required: false
+      - type: boolean
+        name: newsletter
+        label: Newsletter
+        description: 'The name of the field, submitted with the form'
         required: false        
       - type: string
         name: label
