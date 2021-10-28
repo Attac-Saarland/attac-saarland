@@ -1203,6 +1203,7 @@ models:
         name: gutzuwissen
         label: Gut zu wissen
         description: zusätzlicher Text unter dem Kontakt-Formular
+        
       - type: enum
         name: content_align
         label: Ausrichtung Inhalt
