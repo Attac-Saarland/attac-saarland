@@ -1591,7 +1591,7 @@ models:
         required: true
       - type: number
         name: betrag
-        
+        label: Betrag
       - type: string
         name: label
         label: Label
