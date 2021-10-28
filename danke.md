@@ -16,5 +16,4 @@ sections:
     background_color: none
 layout: advanced
 ---
-## Vielen Dank, dass Sie uns unterstützen!
-### Daten verarbeitet
+### Ihre Daten wurden an uns weitergeleitet
