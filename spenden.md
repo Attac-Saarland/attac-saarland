@@ -491,7 +491,7 @@ sections:
         name: first
         label: Vorname
         is_required: true
-      - input_type: string
+      - input_type: text
         name: last
         label: Nachname
         is_required: true
