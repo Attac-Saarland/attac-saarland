@@ -51,7 +51,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: Ihre Nachricht
+        label: Kommentar
         default_value: Geben Sie hier Ihre Nachricht ein
         is_required: true
       - input_type: checkbox
