@@ -104,8 +104,8 @@ sections:
         label: Anrede*
         default_value: Frau
         options: 
-        - Mann
-        - Frau
+          - Mann
+          - Frau
         is_required: true
       - input_type: text
         name: name
