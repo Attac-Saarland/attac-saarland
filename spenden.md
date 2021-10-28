@@ -126,7 +126,7 @@ sections:
         name: message
         label: Kommentar
         default_value: Kommentar zur Spende
-        is_required: true
+        is_required: false
       - input_type: checkbox
         name: consent
         label: >-
