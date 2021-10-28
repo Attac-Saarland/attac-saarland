@@ -1618,7 +1618,7 @@ models:
       - tpye: string
         name: konto
         label: Bankverbindung
-        ddescription: 'The name of the field, submitted with the form'
+        description: 'The name of the field, submitted with the form'
       - type: string
         name: label
         label: Label
