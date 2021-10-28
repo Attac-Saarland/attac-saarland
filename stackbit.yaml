@@ -1203,7 +1203,6 @@ models:
         name: add-text
         label: Weitere Infos
         description: zusätzlicher Text unter dem Kontakt-Formular
-
       - type: enum
         name: content_align
         label: Ausrichtung Inhalt
