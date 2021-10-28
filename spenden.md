@@ -117,7 +117,7 @@ sections:
         label: Straße und Hausnummer*
         default_value: Straße
         is_required: true
-      - input_type: text
+      - input_type: number
         name: plz
         label: PLZ*
         default_value: Ihre Postleitzahl
