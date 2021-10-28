@@ -487,9 +487,10 @@ sections:
         name: bic
         label: BIC
         is_required: true
-      - input_type: number
+      - input_type: string
         name: first
         label: Vorname
+        
         is_required: true
       - input_type: checkbox
         name: newsletter
