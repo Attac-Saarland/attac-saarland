@@ -489,7 +489,7 @@ sections:
         is_required: true
       - input_type: text
         name: first
-        label: Vorname 
+        label: Vorname *
         is_required: true
       - input_type: text
         name: last
