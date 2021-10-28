@@ -121,6 +121,11 @@ sections:
         name: plz
         label: PLZ*
         default_value: Ihre Postleitzahl
+      - input_type: text
+        name: name
+        label: Name*
+        default_value: Ihr Name
+        is_required: true
         is_required: true
       - input_type: email
         name: email
