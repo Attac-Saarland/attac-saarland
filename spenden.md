@@ -485,7 +485,7 @@ sections:
         is_required: true
       - input_type: number
         name: bic
-        label: IBAN
+        label: BIC
         is_required: true
       - input_type: checkbox
         name: newsletter
