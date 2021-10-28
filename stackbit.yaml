@@ -1576,6 +1576,7 @@ models:
       - type: select
         name: land
         label: Land
+        description: 'Feldname, mit dem Formular übermittelt'
         required: false
       - type: string
         name: name
