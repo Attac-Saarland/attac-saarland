@@ -6,7 +6,31 @@ sections:
     section_id: contact-form
     title: Für eine starke Zivilgesellschaft!
     subtitle: Unterstützen
-    add-text: ''
+    add-text: 'Gut zu wissen
+Kampagnen sind ein wichtiges Element unserer politischen Arbeit. Jede Kampagne bringt uns unseren Visionen ein Stückchen näher. Weitere Infos
+
+Bei Attac ist finanzielle Transparenz selbstverständlich – Mitglieder und Spender_innen haben ein Recht darauf zu erfahren, was mit ihrem Geld geschieht. Deshalb kann jede_r einen Blick auf unsere Finanzen werfen. Weitere Infos
+
+Spendenkonto
+Attac Trägerverein e.V.
+IBAN: DE57 43060967 0800100800
+BIC: GENODEM 1 GLS
+GLS Gemeinschaftsbank
+
+Wichtig: Nach dem Urteil des Bundesfinanzhofs ist Attac aktuell nicht gemeinnützig, Spenden können somit steuerlich nicht geltend gemacht werden.
+
+Das Verfahren wurde zurückverwiesen an die erste Instanz, das Hessische Finanzgericht. Dessen erneute Entscheidung steht noch aus.
+
+Weitere Infos
+
+Mitglied werden - jetzt erst recht!
+Eine Attac-Mitgliedschaft stärkt unsere politischen Alternativen auch mit Deiner Stimme. Mit wenigen Klicks kannst Du hier Attac-Mitglied werden und unseren Forderungen mehr Gewicht verleihen!
+Weitere Infos
+
+Deine Daten
+Ab Februar 2014 löst das sogenannte SEPA-Verfahren bisherige Zahlungsverfahren ab. Es betrifft alle Zahlungsvorgänge – und damit auch alle Überweisungen und Einzüge zugunsten von Attac. Wir haben einige Informationen dazu zusammengestellt. Weitere Infos
+
+Datenschutz ist uns wichtig. Wir machen jederzeit transparent, zu welchen Zwecken wir Deine Daten verwenden. Wir speichern niemals Daten ohne Dein Einverständnis und ausschließlich bei Diensten, die das zwingend erfordern. Weitere Infos'
     content: >
       ![Finance for the
       people](/unterstuetzen/images/finance-for-the-people-900.jpg)  
