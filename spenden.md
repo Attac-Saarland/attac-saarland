@@ -460,7 +460,7 @@ sections:
         - 1901
         - 1900
         is_required: false
-      - input_type: radio
+      - input_type: select
         name: betrag
         label: Betrag
         options:
