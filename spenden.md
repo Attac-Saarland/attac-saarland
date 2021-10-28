@@ -464,7 +464,7 @@ sections:
         name: betrag
         label: Betrag
         options:
-        -
+        - 
         is_required: true
       - input_type: textarea
         name: message
