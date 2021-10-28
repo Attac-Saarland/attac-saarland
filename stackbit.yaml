@@ -1200,7 +1200,7 @@ models:
         label: Inhalt
         description: The text content of the section
       - type: markdown
-        name: add-text
+        name: gutzuwissen
         label: Gut zu wissen
         description: zusätzlicher Text unter dem Kontakt-Formular
       - type: enum
