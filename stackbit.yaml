@@ -1581,7 +1581,8 @@ models:
       - type: number
         name: jahr
         label: Geburtsjahr
-        des
+        description: 'Feldname, mit dem Formular übermittelt'
+        required: false
       - type: string
         name: name
         label: Name
