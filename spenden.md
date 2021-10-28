@@ -471,6 +471,8 @@ sections:
         - 100,-€
         - freier Betrag
         is_required: true
+      - input_type: text
+        name: 
       - input_type: textarea
         name: message
         label: Kommentar
