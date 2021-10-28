@@ -1565,7 +1565,7 @@ models:
         required: true
       - type: string
         name: ort
-        label: Straße und Hausnummer
+        label: Ort
         description: 'Feldname, mit dem Formular übermittelt'
         required: true
       - type: string
