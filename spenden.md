@@ -481,7 +481,7 @@ sections:
         is_required: false
       - input_type: textarea
         name: konto
-        label: Kommentar
+        label: Bank
         default_value: Kommentar zur Spende
         is_required: true
       - input_type: checkbox
