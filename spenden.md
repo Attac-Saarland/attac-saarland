@@ -6,7 +6,7 @@ sections:
     section_id: contact-form
     title: Für eine starke Zivilgesellschaft!
     subtitle: Unterstützen
-    add-text: >
+    gutzuwissen: >
       ## Gut zu wissen 
 
 
