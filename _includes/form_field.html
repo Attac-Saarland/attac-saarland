@@ -18,7 +18,6 @@
 {% elsif field.input_type == 'radio' %}
     <div class="form-radio">
         <input id="{{ field.name }}" type="radio" id="{{ field.name }}" name="{{ field.name }}">
-        <input id="{{ field.name }}" type="checkbox" name="{{ field.name }}"
         {% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}
         {% assign is_required_is_not_empty = field.is_required | is_not_empty %}{% if is_required_is_not_empty %} required{% endif %}>
     </div>
