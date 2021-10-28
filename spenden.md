@@ -461,7 +461,8 @@ sections:
         - 1900
         is_required: false
       - input_type: radio
-        name: 
+        name: betrag
+        label: Betrag
       - input_type: textarea
         name: message
         label: Kommentar
