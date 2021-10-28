@@ -464,7 +464,7 @@ sections:
         name: betrag
         label: Betrag
         options:
-        - 10
+        - 10€
         is_required: true
       - input_type: textarea
         name: message
