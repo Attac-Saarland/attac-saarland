@@ -487,7 +487,7 @@ sections:
         name: bic
         label: BIC
         is_required: true
-      - input_type: string
+      - input_type: text
         name: first
         label: Vorname
         is_required: true
