@@ -143,202 +143,202 @@ sections:
         default_value: Deutschland
         options:
           -     - Deutschland
-            - Albanien
-            - Bosnien und Herzegowina
-            - Andorra
-            - Belgien
-            - Bulgarien
-            - Dänemark
-            - Estland
-            - Finnland
-            - Frankreich
-            - Kroatien
-            - Slowenien
-            - Griechenland
-            - Irland
-            - Island
-            - Italien
-            - Lettland
-            - Montenegro
-            - Liechtenstein
-            - Litauen
-            - Luxemburg
-            - Nordmazedonien
-            - Malta
-            - Moldau
-            - Monaco
-            - Niederlande
-            - Norwegen
-            - Kosovo
-            - Österreich
-            - Polen
-            - Portugal
-            - Rumänien
-            - Slowakei
-            - San Marino
-            - Schweden
-            - Schweiz
-            - Russische Föderation
-            - Spanien
-            - Türkei
-            - Tschechien
-            - Ungarn
-            - Ukraine
-            - Vatikanstadt
-            - Vereinigtes Königreich
-            - Weißrussland
-            - Serbien
-            - Zypern
-            - Algerien
-            - Angola
-            - Eritrea
-            - Äthiopien
-            - Lesotho
-            - Botsuana
-            - Benin
-            - Dschibuti
-            - Côte d’Ivoire
-            - Nigeria
-            - Simbabwe
-            - Gabun
-            - Gambia
-            - Ghana
-            - Mauretanien
-            - Cabo Verde
-            - Kenia
-            - Komoren
-            - Kongo
-            - Kongo, Demokratische Republik
-            - Liberia
-            - Libyen
-            - Madagaskar
-            - Mali
-            - Marokko
-            - Mauritius
-            - Mosambik
-            - Niger
-            - Malawi
-            - Sambia
-            - Burkina Faso
-            - Guinea-Bissau
-            - Guinea
-            - Kamerun
-            - Südafrika
-            - Ruanda
-            - Namibia
-            - São Tomé und Príncipe
-            - Senegal
-            - Seychellen
-            - Sierra Leone
-            - Somalia
-            - Äquatorialguinea
-            - Sudan
-            - Südsudan
-            - Eswatini
-            - Tansania
-            - Togo
-            - Tschad
-            - Tunesien
-            - Uganda
-            - Ägypten
-            - Zentralafrikanische Republik
-            - Burundi
-            - Antigua und Barbuda
-            - Barbados
-            - Argentinien
-            - Bahamas
-            - Bolivien
-            - Brasilien
-            - Guyana
-            - Belize
-            - Chile
-            - Dominica
-            - Costa Rica
-            - Dominikanische Republik
-            - Ecuador
-            - El Salvador
-            - Grenada
-            - Guatemala
-            - Haiti
-            - Honduras
-            - Kanada
-            - Kolumbien
-            - Kuba
-            - Mexiko
-            - Nicaragua
-            - Jamaika
-            - Panama
-            - Paraguay
-            - Peru
-            - Suriname
-            - Uruguay
-            - St. Lucia
-            - Venezuela
-            - Vereinigte Staaten
-            - St. Vincent und die Grenadinen
-            - St. Kitts und Nevis
-            - Trinidad und Tobago
-            - Jemen
-            - Armenien
-            - Afghanistan
-            - Bahrain
-            - Aserbaidschan
-            - Bhutan
-            - Myanmar
-            - Brunei Darussalam
-            - Georgien
-            - Sri Lanka
-            - Vietnam
-            - Korea, Demokratische Volksrepublik
-            - Indien
-            - Indonesien
-            - Irak
-            - Iran
-            - Israel
-            - Japan
-            - Kasachstan
-            - Jordanien
-            - Kambodscha
-            - Katar
-            - Kuwait
-            - Laos
-            - Kirgisistan
-            - Libanon
-            - Malediven
-            - Oman
-            - Mongolei
-            - Nepal
-            - Bangladesch
-            - Pakistan
-            - Philippinen
-            - Korea, Republik
-            - Vereinigte Arabische Emirate
-            - Tadschikistan
-            - Turkmenistan
-            - Saudi-Arabien
-            - Singapur
-            - Syrien
-            - Thailand
-            - Usbekistan
-            - China
-            - Malaysia
-            - Timor-Leste
-            - Australien
-            - Salomonen
-            - Fidschi
-            - Cookinseln
-            - Kiribati
-            - Nauru
-            - Vanuatu
-            - Niue
-            - Neuseeland
-            - Palau
-            - Papua-Neuguinea
-            - Tuvalu
-            - Tonga
-            - Samoa
-            - Marshallinseln
-            - Mikronesien
+        - Albanien
+        - Bosnien und Herzegowina
+        - Andorra
+        - Belgien
+        - Bulgarien
+        - Dänemark
+        - Estland
+        - Finnland
+        - Frankreich
+        - Kroatien
+        - Slowenien
+        - Griechenland
+        - Irland
+        - Island
+        - Italien
+        - Lettland
+        - Montenegro
+        - Liechtenstein
+        - Litauen
+        - Luxemburg
+        - Nordmazedonien
+        - Malta
+        - Moldau
+        - Monaco
+        - Niederlande
+        - Norwegen
+        - Kosovo
+        - Österreich
+        - Polen
+        - Portugal
+        - Rumänien
+        - Slowakei
+        - San Marino
+        - Schweden
+        - Schweiz
+        - Russische Föderation
+        - Spanien
+        - Türkei
+        - Tschechien
+        - Ungarn
+        - Ukraine
+        - Vatikanstadt
+        - Vereinigtes Königreich
+        - Weißrussland
+        - Serbien
+        - Zypern
+        - Algerien
+        - Angola
+        - Eritrea
+        - Äthiopien
+        - Lesotho
+        - Botsuana
+        - Benin
+        - Dschibuti
+        - Côte d’Ivoire
+        - Nigeria
+        - Simbabwe
+        - Gabun
+        - Gambia
+        - Ghana
+        - Mauretanien
+        - Cabo Verde
+        - Kenia
+        - Komoren
+        - Kongo
+        - Kongo, Demokratische Republik
+        - Liberia
+        - Libyen
+        - Madagaskar
+        - Mali
+        - Marokko
+        - Mauritius
+        - Mosambik
+        - Niger
+        - Malawi
+        - Sambia
+        - Burkina Faso
+        - Guinea-Bissau
+        - Guinea
+        - Kamerun
+        - Südafrika
+        - Ruanda
+        - Namibia
+        - São Tomé und Príncipe
+        - Senegal
+        - Seychellen
+        - Sierra Leone
+        - Somalia
+        - Äquatorialguinea
+        - Sudan
+        - Südsudan
+        - Eswatini
+        - Tansania
+        - Togo
+        - Tschad
+        - Tunesien
+        - Uganda
+        - Ägypten
+        - Zentralafrikanische Republik
+        - Burundi
+        - Antigua und Barbuda
+        - Barbados
+        - Argentinien
+        - Bahamas
+        - Bolivien
+        - Brasilien
+        - Guyana
+        - Belize
+        - Chile
+        - Dominica
+        - Costa Rica
+        - Dominikanische Republik
+        - Ecuador
+        - El Salvador
+        - Grenada
+        - Guatemala
+        - Haiti
+        - Honduras
+        - Kanada
+        - Kolumbien
+        - Kuba
+        - Mexiko
+        - Nicaragua
+        - Jamaika
+        - Panama
+        - Paraguay
+        - Peru
+        - Suriname
+        - Uruguay
+        - St. Lucia
+        - Venezuela
+        - Vereinigte Staaten
+        - St. Vincent und die Grenadinen
+        - St. Kitts und Nevis
+        - Trinidad und Tobago
+        - Jemen
+        - Armenien
+        - Afghanistan
+        - Bahrain
+        - Aserbaidschan
+        - Bhutan
+        - Myanmar
+        - Brunei Darussalam
+        - Georgien
+        - Sri Lanka
+        - Vietnam
+        - Korea, Demokratische Volksrepublik
+        - Indien
+        - Indonesien
+        - Irak
+        - Iran
+        - Israel
+        - Japan
+        - Kasachstan
+        - Jordanien
+        - Kambodscha
+        - Katar
+        - Kuwait
+        - Laos
+        - Kirgisistan
+        - Libanon
+        - Malediven
+        - Oman
+        - Mongolei
+        - Nepal
+        - Bangladesch
+        - Pakistan
+        - Philippinen
+        - Korea, Republik
+        - Vereinigte Arabische Emirate
+        - Tadschikistan
+        - Turkmenistan
+        - Saudi-Arabien
+        - Singapur
+        - Syrien
+        - Thailand
+        - Usbekistan
+        - China
+        - Malaysia
+        - Timor-Leste
+        - Australien
+        - Salomonen
+        - Fidschi
+        - Cookinseln
+        - Kiribati
+        - Nauru
+        - Vanuatu
+        - Niue
+        - Neuseeland
+        - Palau
+        - Papua-Neuguinea
+        - Tuvalu
+        - Tonga
+        - Samoa
+        - Marshallinseln
+        - Mikronesien
         is_required: false
       - input_type: textarea
         name: message
