@@ -466,7 +466,8 @@ sections:
         options:
         - 10,-€
         - 25,-€
-        - 50€
+        - 50,-€
+        
         is_required: true
       - input_type: textarea
         name: message
