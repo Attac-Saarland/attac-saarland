@@ -1210,7 +1210,7 @@ models:
       - type: markdown
         name: mitglieddaten
         label: Mitglied werden
-        description: Datenschutz
+        description: Datenschutzinfos
       - type: enum
         name: content_align
         label: Ausrichtung Inhalt
