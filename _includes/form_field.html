@@ -18,7 +18,7 @@
 {% elsif field.input_type == 'radio' %}
     <div class="form-radio">
         {% for option in field.options %}
-        <input type="radio" id="{{ option }}" name="{{ field.name }}" value="{{ option }}"{% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}{% if is_required_is_not_empty %} required{% endif %}>
+        <input type="radio" id="{{ option }}" name="{{ field.name }}" value="{{ option }}"{% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %} aria-labelledby="{{ field.name }}-label"{% endif %}>
         {% assign label_is_not_empty = field.label | is_not_empty %}{% if label_is_not_empty %}<label for="{{ option }}">{{ option }}</label>{% endif %}
         {% endfor %}
     </div>
