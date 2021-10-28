@@ -492,7 +492,7 @@ sections:
         label: Vorname
         is_required: true
       - input_type: string
-        name: first
+        name: last
         label: Vorname
         is_required: true
       - input_type: checkbox
