@@ -486,6 +486,9 @@ sections:
         label: Ich möchte den Attac-Newsletter abonnieren
         is_required: false
       - input_type: checkbox
+        name: post
+        label: Ich möchte mehr Infos über Attac per Post.
+      - input_type: checkbox
         name: consent
         label: >-
           Ich habe die <a href="/datenschutz">Datenschutzbestimmungen</a>
