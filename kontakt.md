@@ -7,7 +7,7 @@ sections:
     title: Für eine starke Zivilgesellschaft!
     subtitle: Unterstützen
     content: >
-      ![](images/weltkeineware.jpeg)
+      ![](images/finance-for-the-people\_900.jpg)
 
 
       Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac stark
