@@ -1600,6 +1600,7 @@ models:
       - type: boolean
         name: newsletter
         label: 
+        
       - type: string
         name: label
         label: Label
