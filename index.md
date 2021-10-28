@@ -477,7 +477,7 @@ sections:
           Genau wie ich hat sich Attac dem Fairen Handel und dem Fairen Handeln
           verschrieben.
 
-      - title: Stefan E. Winkler
+      - title: Stefan Winkler
         image: images/klDSCF9869_500.jpg
         image_alt: Speaker 1 photo
         image_position: top
