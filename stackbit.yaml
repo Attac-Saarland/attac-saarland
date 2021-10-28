@@ -1559,7 +1559,7 @@ models:
         description: 'Feldname, mit dem Formular übermittelt'
         required: true
       - type: string
-        name: anrede
+        name: strasse
         label: Anrede
         description: 'Feldname, mit dem Formular übermittelt'
         required: true
