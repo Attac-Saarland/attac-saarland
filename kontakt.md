@@ -52,7 +52,7 @@ sections:
       - input_type: textarea
         name: message
         label: Kommentar
-        default_value: Geben Sie hier Ihre Nachricht ein
+        default_value: Kommentar zur Spende
         is_required: true
       - input_type: checkbox
         name: consent
