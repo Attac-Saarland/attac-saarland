@@ -383,27 +383,61 @@ sections:
     title: Unsere Mitstreiter
     grid_items:
       - title: Michaela Couturier
-        subtitle: 'ReactEvent, Israel'
         image: images/klDSCF4168_500.jpg
         image_alt: Speaker 8 photo
         image_position: top
+        content: >+
+          Wenn die Industrie- und Schwellenländer ihren Treibhausgasausstoß
+          nicht drastisch senken, könnte die Durchschnittstemperatur auf der
+          Erde
+
+          bis zum Ende des Jahrhunderts um weitere vier Grad ansteigen. Dagegen
+          kämpft Greenpeace gemeinsam mit Attac.
+
       - title: Tamara Enhuber
-        subtitle: 'Libris, USA'
-        image_alt: Speaker 4 photo
+        title_align: left
+        content: >
+          Sklaverei, sklavereiähnliche Bedingungen, Zwangsarbeit und
+          Menschenhandel existieren noch heute. Weltweit. Auch in Deutschland.
+          Deshalb haben
+
+          wir das „Saar-Bündnis und –Kampagne Sklaven*los*! Gegen globale
+          Sklaverei heute“ gegründet.
+
+
+          [**Sklavenlos**](http://www.sklavenlos.de)
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
         image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
         image: images/kl2021_0926_19443400_500.jpg
       - title: Eugen Georg
-        subtitle: 'Microsoft, USA'
         image_alt: Speaker 3 photo
         image_position: top
         image: images/kl2021_0926_19374400_500.jpg
+        content: >
+          Attac war die erste international ausgerichtete NGO. Das ist wichtig,
+          denn auch die Welt wird immer vernetzter. Im „Arrival Room“ bieten wir
+          Menschen aus aller Welt die Möglichkeit, ihr Herzensprojekt zu
+          verwirklichen.
+
+
+          [**Arrival Room**](https://arrivalroom.wordpress.com/home/)
       - title: Marie-Louise Innocent
         subtitle: Gründungsmitglied
         image: images/klDSCF1442_500.jpg
         image_alt: Speaker 7 photo
         image_position: top
+        content: >+
+          Die Welt ist keine Ware. Man kann das gar nicht oft genug wiederholen,
+          denn um die Ecke wartet bereits das nächste Privatisierungsprojekt.
+
       - title: Werner Langefeld
-        subtitle: 'Mailgun, USA'
         title_align: left
         content_align: left
         actions: []
@@ -415,27 +449,42 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/klDSCF9852_500.jpg
+        content: >
+          Wie unter einem Brennglas werden die Schwächen der neoliberalen
+          Gestaltung des Welthandels in der Corona-Pandemie verstärkt sichtbar.
       - title: Thomas Schulz
         subtitle: Regionalsprecher
         image: images/kl2021_0926_19165400_500.jpg
         image_alt: Speaker 2 photo
         image_position: top
         image_width: thirty-three
+        content: >
+          Der so genannte Freihandel macht die Länder des globalen Südens noch
+          ärmer. Deswegen stehen wir dieser neoliberalen Globalisierung kritisch
+
+          gegenüber.
       - title: Michael Sperlich
-        subtitle: 'CSS Rocks, Sweden'
         image: images/klDSCF1427_500.jpg
         image_alt: Speaker 6 photo
         image_position: top
+        content: |
+          Es ist genug für alle da. Es muss nur gerecht verteilt werden.
       - title: Peter Weichardt
-        subtitle: 'Exto, Canada'
         image: images/kl2021_0926_22505500_500.jpg
         image_alt: Speaker 5 photo
         image_position: top
+        content: >+
+          Genau wie ich hat sich Attac dem Fairen Handel und dem Fairen Handeln
+          verschrieben.
+
       - title: Stefan E. Winkler
-        subtitle: 'React Awesome, USA'
         image: images/klDSCF9869_500.jpg
         image_alt: Speaker 1 photo
         image_position: top
+        content: >+
+          Attac setzt sich für gerechte Welthandelsregeln jenseits von
+          Freihandel und nationalistisch motiviertem Protektionismus ein.
+
       - title: Volker Wieland
         subtitle: Wald- und Wiesenläufer
         title_align: left
@@ -449,6 +498,9 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/klVolkerWielandDSCF9941_500.jpg
+        content: |+
+          Klimagerechte Mobilität beginnt mit dem ersten Schritt.
+
       - title: Attac in Aktion
         subtitle: 'Foto: Gerhard Schaal'
         title_align: left
