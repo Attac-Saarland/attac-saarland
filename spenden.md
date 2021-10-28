@@ -43,20 +43,19 @@ sections:
 
       (Felder mit \* müssen ausgefüllt werden)
     spendenkonto: >
-      ## Spendenkonto 
+      ## Spendenkonto
 
 
-      Attac Trägerverein e.V. 
+      Attac Trägerverein e.V.
 
 
-      IBAN: DE57 43060967 0800100800 
+      IBAN: DE57 43060967 0800100800
 
 
-      BIC: GENODEM 1 GLS 
+      BIC: GENODEM 1 GLS
 
 
       GLS Gemeinschaftsbank
-
 
 
       Wichtig: Nach dem Urteil des Bundesfinanzhofs ist Attac aktuell nicht
@@ -68,7 +67,7 @@ sections:
       Finanzgericht. Dessen erneute Entscheidung steht noch aus.
 
 
-      Weitere Infos
+      [Weitere Infos](https://www.attac.de/kampagnen/gemeinnuetzigkeit)
     mitglieddaten: >
       ## Mitglied werden - jetzt erst recht!
 
