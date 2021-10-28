@@ -105,7 +105,12 @@
 						</div>
 					</div>
 				</form>
-			</div>
+            </div>
+                  {% assign add-text_is_not_empty = section.add-text | is_not_empty %}
+      {% if add-text_is_not_empty %}
+      <div>{{ section.add-text | markdownify }}</div>
+      {% endif %}
+      </div>
 		</div>
 	</div>
 </section>
