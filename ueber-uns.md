@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Über Attac
     - name: 'twitter:description'
-      value: Über Attac
+      value: Alles was ihr schon immer über uns wissen wolltet
     - name: 'twitter:image'
       value: images/ueber-uns/finance-for-the-people-900.jpg
       relativeUrl: true
