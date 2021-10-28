@@ -107,7 +107,7 @@ sections:
       - input_type: text
         name: name
         label: Anrede*
-        default_value: Ihr Name
+        default_value: Frau
         is_required: true
       - input_type: email
         name: email
