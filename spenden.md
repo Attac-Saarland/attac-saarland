@@ -493,7 +493,7 @@ sections:
         is_required: true
       - input_type: string
         name: last
-        label: Vorname
+        label: Nachname
         is_required: true
       - input_type: checkbox
         name: newsletter
