@@ -737,7 +737,7 @@ models:
         description: Action buttons displayed below section items
       - type: list
         name: grid_items
-        label: Unsere Mitstreiter
+        label: Mitstreiter
         items:
           type: model
           models:
