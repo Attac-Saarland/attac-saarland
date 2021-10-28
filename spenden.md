@@ -99,7 +99,7 @@ sections:
     form_id: contactForm
     form_action: /thank-you
     form_fields:
-      - input_type: text
+      - input_type: select
         name: anrede
         label: Anrede*
         default_value: Frau
