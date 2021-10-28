@@ -473,7 +473,7 @@ sections:
         is_required: true
     submit_label: Spenden
 seo:
-  title: Kontakt
+  title: Spende
   description: Attac unterstützen
   extra:
     - name: 'og:type'
