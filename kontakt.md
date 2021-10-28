@@ -60,7 +60,7 @@ sections:
           Ich habe die <a href="/datenschutz">Datenschutzbestimmungen</a>
           gelesen und erkenne sie an.
         is_required: true
-    submit_label: Nachricht senden
+    submit_label: Spenden
 seo:
   title: Kontakt
   description: Dies ist die Kontaktseite
