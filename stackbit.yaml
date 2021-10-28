@@ -1593,7 +1593,8 @@ models:
         name: betrag
         label: Betrag
       - type: string
-      
+        name: freibetrag
+        label: 
       - type: string
         name: label
         label: Label
