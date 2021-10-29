@@ -540,13 +540,17 @@ sections:
       - title: Reinschnupperer
         subtitle: Erster Mittwoch im Monat
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
+
           ### Ohne Anmeldung...
 
           einfach mal zu unseren Veranstaltungen kommen
 
           *   Aktuelle Aktionen
+
+          <!---->
+
           *   Jour fixe-Treffen (monatlich)
         content_align: left
         actions:
