@@ -33,8 +33,8 @@ Die Steuernummer ist: 45 250 52429
 
 ### Attac Trägerverein e.V.
 
-Münchener Straße 48\
-60329 Frankfurt\
+Münchener Straße 48  
+60329 Frankfurt  
 Telefon: +49 69 900 281 -10\
 Telefax: +49 69 900 281-99\
 E-Mail: info@attac.de
