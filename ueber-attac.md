@@ -14,7 +14,7 @@ seo:
       value: Alles was ihr schon immer über uns wissen wolltet
       keyName: property
     - name: 'og:image'
-      value: /ueber-attac/k2021082111430400-990.jpg
+      value: /ueber-attac/imagesk2021082111430400-990.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
