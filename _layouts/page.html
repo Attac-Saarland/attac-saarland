@@ -10,7 +10,7 @@ layout: body
 	    {% assign traeger_is_not_empty = page.traeger | is_not_empty %} 
         {% if traeger_is_not_empty %}
         <div class="traeger">
-            {{  page.traeger }}
+            {{  page.traeger | markdownify }}
         </div>
 	    {% endif %}
 		<div class="page__body text-block">
