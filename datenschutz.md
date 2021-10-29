@@ -139,7 +139,8 @@ Sie haben das Recht auf Auskunft über die bei uns von Ihnen gespeicherten Daten
 **Widerrufsrecht**  
 
 
-Sofern die Verarbeitung Ihrer personenbezogenen Daten auf Grundlage einer Einwilligung erfolgt, haben Sie jederzeit das Recht, diese uns gegenüber zu widerrufen. Die Rechtsmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung wird dadurch nicht berührt.
+Sofern die Verarbeitung Ihrer personenbezogenen Daten auf Grundlage einer Einwilligung erfolgt, haben Sie jederzeit das Recht, diese uns gegenüber zu widerrufen. Die Rechtsmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung wird dadurch nicht berührt.  
+
 
 Beschwerderecht bei einer Aufsichtsbehörde
 
