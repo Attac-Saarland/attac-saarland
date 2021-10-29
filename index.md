@@ -745,7 +745,7 @@ sections:
     enable_cards: true
     align: center
     padding_top: none
-    padding_bottom: small
+    padding_bottom: medium
     background_color: none
     has_border: false
 seo:
