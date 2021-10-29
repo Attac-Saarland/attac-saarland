@@ -165,7 +165,8 @@ Sollte dies doch einmal der Fall sein, werden die Teilnehmer*innen informiert un
 
 **Zwecke der Datenverarbeitung**  
 
-Die Verarbeitung Ihrer oben genannten personenbezogenen Daten dient dazu, Ihnen „BigBlueButton“ als Tool für die Durchführung von Video-Konferenzen, Online-Meetings und Webinaren zur Verfügung stellen zu können und die genannten Veranstaltungs-Formate über „BigBlueButton“ realisieren zu können. 
+Die Verarbeitung Ihrer oben genannten personenbezogenen Daten dient dazu, Ihnen „BigBlueButton“ als Tool für die Durchführung von Video-Konferenzen, Online-Meetings und Webinaren zur Verfügung stellen zu können und die genannten Veranstaltungs-Formate über „BigBlueButton“ realisieren zu können.  
+
 
 Rechtsgrundlage für die Verarbeitung personenbezogener Daten
 Soweit wir für Verarbeitungsvorgänge personenbezogener Daten im Rahmen der Nutzung von „BigBlueButton“ Ihre Einwilligung einholen, dient Art. 6 Abs. 1 lit. a DSGVO als Rechtsgrundlage für die Verarbeitung personenbezogener Daten.
