@@ -50,7 +50,8 @@ Attac Deutschland ist das Projekt des Attac Trägerverein e.V.  Verantwortlich f
 3. Datenschutzbeauftragter  
 
 
-Unseren bestellten Datenschutzbeauftragten erreichen Sie unter Tel. 900 281 – 90 oder per Mail unter: datenschutzbeauftragter(at)attac.de  
+Unseren bestellten Datenschutzbeauftragten erreichen Sie unter Tel. 900 281 – 90 oder per Mail unter: datenschutzbeauftragter(at)attac.de    
+
 
 
 4. Zwecke der Verarbeitung 
