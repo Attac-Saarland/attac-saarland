@@ -90,8 +90,8 @@ Insofern nicht anders vermerkt, stehen die unveränderten Texte unter Angabe ihr
 Kontonummer: 600 77 26 100  
 GLS Gemeinschaftsbank  
 BLZ: 430 609 67  
-IBAN: DE96 4306 0967 6007726100\
-BIC: GENODEM 1 GLS
+IBAN: DE96 4306 0967 6007726100  
+BIC: GENODEM 1 GLS  
 
 ## Haftungshinweis
 
