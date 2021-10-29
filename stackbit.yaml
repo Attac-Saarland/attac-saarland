@@ -720,7 +720,7 @@ models:
         description: Repeat the image to cover the whole area
   grid_section:
     type: object
-    label: Abschnitt Mitstreiter
+    label: Raster-Elemente
     labelField: title
     fields:
       - type: string
@@ -741,7 +741,7 @@ models:
         description: Action buttons displayed below section items
       - type: list
         name: grid_items
-        label: Mitstreiter
+        label: Kästen
         items:
           type: model
           models:
