@@ -170,8 +170,6 @@ Alle personenbezogenen Daten werden standardmäßig über eine SSL-Verbindung ü
 
 **Attac Webseite**
 
-Für die Analyse der Nutzung der Attac Webseite nutzen wir Piwik (Matomo), ein OpenSource-Web-Analysedienst, den wir auf unserem eigenen abgesicherten Server betreiben. Unser Analyseprogramm verwendet sogenannte Cookies – Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) werden nur auf unserem Server gespeichert. Wir nutzen diese Informationen ausschließlich, um die Nutzung unserer Website pseudonymisiert auszuwerten. Wir geben keinerlei Daten an Dritte weiter.
-
 Unser Web-Hoster speichert keine Daten von den Nutzer\*innen unserer Webseiten.
 
 Bei der Suchfunktion auf der Attac-Webseite setzen wir eine eigens entwickelte Suchmaschine ein, die keine Nutzer\*innendaten (IP-Adresse, Browser, Uhrzeit, etc.) speichert.
