@@ -61,7 +61,8 @@ sections:
       BIC: GENODEM 1 GLS
 
 
-      GLS Gemeinschaftsbank
+      GLS Gemeinschaftsbank  
+      
 
 
       <br>
