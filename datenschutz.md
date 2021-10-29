@@ -194,7 +194,8 @@ Attac speichert keine personenbezogenen Daten, außer bei den Vorgängen, die di
 
 Zugang zu den personenbezogenen Daten haben in Attac ausschließlich einzelne Mitarbeiter*innen von Attac. Die Daten werden allein für die von den Nutzer*innen angegebenen Zwecke verwendet. Attac erstellt keinerlei Nutzer*innenprofile.
 
-Alle personenbezogenen Daten werden standardmäßig über eine SSL-Verbindung übertragen. SSL gewährleistet eine sichere und verschlüsselte, von außen nicht zugängliche Datenübertragung (erkennbar am "s" im "https://" in der Adresszeile des Webbrowsers). Für E-Mails können wir die Sicherheit der gesendeten Daten auf dem Übertragungsweg nicht gewährleisten.
+Alle personenbezogenen Daten werden standardmäßig über eine SSL-Verbindung übertragen. SSL gewährleistet eine sichere und verschlüsselte, von außen nicht zugängliche Datenübertragung (erkennbar am "s" im "https://" in der Adresszeile des Webbrowsers). Für E-Mails können wir die Sicherheit der gesendeten Daten auf dem Übertragungsweg nicht gewährleisten.  
+
 
 Attac Webseite 
 
