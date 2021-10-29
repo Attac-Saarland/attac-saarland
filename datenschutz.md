@@ -160,7 +160,7 @@ Ihre personenbezogenen Daten, die wir im Rahmen Ihrer Verwendung der Videokonfer
 Attac Deutschland untersagt als Veranstalter ausdrücklich, personenbezogene Daten aus den von uns auf BBB realisierten Veranstaltungen zu speichern, weiterzugeben, oder zu verarbeiten. Dazu gehören Video- und Audioaufzeichnungen, sowie schriftliche Äußerungen im Chat.
 Für den Fall, dass der Veranstalter selbst Aufzeichnungen vornehmen möchte, muss er hierzu das Einverständnis aller Teilnehmer\*innen einholen. Dieses Einverständnis muss schriftlich erfolgen, im Chat oder in den Notizen.
 
-C) Weitere Informationen zum Datenschutz bei Attac
+### C) Weitere Informationen zum Datenschutz bei Attac
 Attac speichert keine personenbezogenen Daten, außer bei den Vorgängen, die dies explizit erfordern, und auch dann nur mit Ihrem Einverständnis (Spenden, Mitglied werden, Infos senden, etc.), oder im Rahmen von gesetzlichen Auflagen. Wenn Sie uns personenbezogene Daten aktiv zur Verfügung stellen, werden Ihre Daten gespeichert, die Speicherung erfolgt in elektronischer Form in einer geschützten Datenbank auf geschützten Servern.
 
 Zugang zu den personenbezogenen Daten haben in Attac ausschließlich einzelne Mitarbeiter*innen von Attac. Die Daten werden allein für die von den Nutzer*innen angegebenen Zwecke verwendet. Attac erstellt keinerlei Nutzer\*innenprofile.
