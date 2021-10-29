@@ -121,7 +121,7 @@ Sofern die Verarbeitung Ihrer personenbezogenen Daten auf Grundlage einer Einwil
 
 Darüber hinaus haben Sie das Recht, sich mit einer Beschwerde an die zuständige Datenschutz-Aufsichtsbehörde zu wenden. Diese ist der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65021 Wiesbaden https://datenschutz.hessen.de oder telefonisch: 0611 1408-0
 
-## B) Datenverarbeitung bei der Nutzung von "BigBlueButton"
+### B) Datenverarbeitung bei der Nutzung von "BigBlueButton"
 
 Umfang der Datenverarbeitung
 
