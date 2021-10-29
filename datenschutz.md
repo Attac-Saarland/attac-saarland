@@ -26,7 +26,7 @@ seo:
         Datenschutzerklärung nach der DSGVO
 layout: page
 ---
-Informationen zum Datenschutz bei Attac
+
 Der Schutz Ihrer persönlichen Daten liegt uns sehr am Herzen. Zählen Sie auf uns!
 
 Attac Deutschland unterliegt, wie jede Organisation und jedes Unternehmen, den gesetz­lichen Grundlagen gemäß Bundesdatenschutzgesetz und EU-Datenschutz-Grundverordnung (DSGVO). Diese Auflagen und Verpflichtungen nehmen wir sehr ernst; wir überwachen sie gemeinsam mit dem von Attac beauftragten unabhängigen Datenschutzbeauftragten.
