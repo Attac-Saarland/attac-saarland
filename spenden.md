@@ -104,7 +104,7 @@ sections:
       Infos](https://www.attac.de/spenden/sepa)
 
 
-      [**Datenschutz**](https://www.attac.de/datenschutz) ist uns wichtig. Wir
+      [**Datenschutz**](/datenschutz) ist uns wichtig. Wir
       machen jederzeit transparent, zu welchen Zwecken wir Deine Daten
       verwenden. Wir speichern niemals Daten ohne Dein Einverständnis und
       ausschließlich bei Diensten, die das zwingend erfordern. [Weitere
