@@ -151,9 +151,12 @@ Darüber hinaus haben Sie das Recht, sich mit einer Beschwerde an die zuständig
 
 Umfang der Datenverarbeitung  
 
-Wenn Sie den von Attac zur Verfügung gestellten Dienst "BigBlueButton“ für die Durchführung von Video-Konferenzen, Online-Meetings und Webinaren nutzen, verarbeiten wir von Ihnen folgende Daten:
-1.    Angaben zum Benutzer: Vorname, Nachname, Nickname (Pseudonym), Benutzerkennung
-2.    Meeting-Metadaten: Thema, Beschreibung (optional), Teilnehmer-IP-Adressen, Geräte-/Hardware-Informationen
+Wenn Sie den von Attac zur Verfügung gestellten Dienst "BigBlueButton“ für die Durchführung von Video-Konferenzen, Online-Meetings und Webinaren nutzen, verarbeiten wir von Ihnen folgende Daten:  
+
+1.    Angaben zum Benutzer: Vorname, Nachname, Nickname (Pseudonym), Benutzerkennung  
+
+2.    Meeting-Metadaten: Thema, Beschreibung (optional), Teilnehmer-IP-Adressen, Geräte-/Hardware-Informationen  
+
 3.    Meeting-Inhaltsdaten: Audio-, Video- und ggf. Textdaten (Chat) der Äußerungen, die Sie während eines Meetings tätigen
 4.    Meeting-Aufzeichnungen: Standardmäßig werden bei Audio- bzw. Video-Aufnahmen der Veranstaltungen die Kameras der Teilnehmer*innen ausgeschaltet. Die Fragen aus dem Publikum werden per Chat gestellt, sodass weder Audio- noch Videodaten der Teilnehmer*innen entstehen. 
 Sollte dies doch einmal der Fall sein, werden die Teilnehmer*innen informiert und bekommen die Gelegenheit, ihr Einverständnis zu geben (im Chat, sodass das Einverständnis per Screenshot dokumentiert werden kann). 
