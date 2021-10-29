@@ -37,7 +37,8 @@ Sie finden hier die Aufstellung aller relevanten Informationen für Sie als Nutz
 
 ## A) Informationen zum Datenschutz nach Art. 13 DSGVO (Datenschutz-Grundverordnung)  
 
-1. Allgemeine Hinweise
+1. Allgemeine Hinweise  
+
 
 Die am 25. Mai 2018 in Kraft getretene Datenschutzgrundverordnung (DSGVO) ist eine EU-weite Verordnung, die die Verarbeitung personenbezogener Daten regelt. Diese soll den Schutz personenbezogener Daten in der Europäischen Union sicherstellen.
 Der Schutz Ihrer Daten und Ihrer Privatsphäre ist uns sehr wichtig. Wir verarbeiten Ihre personenbezogenen Daten ausschließlich im Einklang mit den gesetzlichen Vorgaben.    
