@@ -45,7 +45,7 @@ III. Datenschutzbeauftragter
 
 Unseren bestellten Datenschutzbeauftragten erreichen Sie unter Tel. 900 281 – 90 oder per Mail unter: datenschutzbeauftragter(at)attac.de
 
-4.  Zwecke der Verarbeitung
+IV.  Zwecke der Verarbeitung
 
 Wir verarbeiten die von Ihnen zur Verfügung gestellten personenbezogenen Daten zu folgenden Zwecken:
 
