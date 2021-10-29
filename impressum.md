@@ -57,7 +57,7 @@ BIC: GENODEM 1 GLS
 ## Webauftritt
 
 Über Fragen zum Webauftritt oder Hinweise zu Fehlern auf der Seite freut sich das Webteam: <attac.saarland@gmail.com>.  
-Web-Administrator und Webredakteur: Thomas Schulz, <attac.saarland@gmail.com>\
+Web-Administrator und Webredakteur: Thomas Schulz, <attac.saarland@gmail.com>  
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Thomas Schulz (Anschrift wie oben)
 
 ## Haftungshinweis / Haftungsausschluss
