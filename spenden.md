@@ -103,8 +103,8 @@ sections:
       Informationen dazu zusammengestellt. [Weitere
       Infos](https://www.attac.de/spenden/sepa)
 
-      <br>
-      
+      <br>  
+
       [**Datenschutz**](/datenschutz) ist uns wichtig. Wir
       machen jederzeit transparent, zu welchen Zwecken wir Deine Daten
       verwenden. Wir speichern niemals Daten ohne Dein Einverständnis und
