@@ -35,9 +35,9 @@ Die Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz lautet: DE 247862896
 Die Steuernummer ist: 45 250 52429
 
 [**Satzung des Attac Trägervereins**](https://www.attac.de/fileadmin/user_upload/bundesebene/attac-strukturen/AttacTraegerverein-eV__Satzung_Sept2015.pdf)  
- 
 
-### Anschrift Attac Saar  
+
+## Anschrift Attac Saar  
 Haus der Umwelt  
 Evangelisch-Kirch-Str. 8  
 66111 Saarbrücken  
