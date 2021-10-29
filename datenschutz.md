@@ -44,7 +44,8 @@ Der Schutz Ihrer Daten und Ihrer Privatsphäre ist uns sehr wichtig. Wir verarbe
 
 
 
-2. Verantwortliche Stelle 
+2. Verantwortliche Stelle  
+
 
 Attac Deutschland ist das Projekt des Attac Trägerverein e.V.  Verantwortlich für die Verarbeitung Ihrer personenbezogenen Daten ist der Attac Trägerverein e.V., Münchner Str. 48, 60329 Frankfurt. Telefonnummer: 069 900 281 40, E-Mail: info(at)attac.de  
 
