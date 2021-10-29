@@ -344,7 +344,7 @@ models:
         required: true
       - type: content
         name: traeger
-        label: Trägerverein
+        label: Daten zum Trägerverein
       - type: model
         name: seo
         models:
