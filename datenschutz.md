@@ -124,9 +124,11 @@ Ihre personenbezogenen Daten werden von uns nicht für eine Profilbildung verarb
 8. Folgen der Nichtbereitstellung Ihrer personenbezogenen Daten  
 
 
-Selbstverständlich sind Sie zu keiner Zeit verpflichtet, uns Ihre Daten zur Verfügung zu stellen. Allerdings befragen wir Sie in unseren Formularen nur nach den nötigsten Daten – wenn wir diese nicht verfügbar haben, können wir Ihren Anliegen (Mitgliedschaft, Newsletter, Spenden etc.) nicht nachkommen.
+Selbstverständlich sind Sie zu keiner Zeit verpflichtet, uns Ihre Daten zur Verfügung zu stellen. Allerdings befragen wir Sie in unseren Formularen nur nach den nötigsten Daten – wenn wir diese nicht verfügbar haben, können wir Ihren Anliegen (Mitgliedschaft, Newsletter, Spenden etc.) nicht nachkommen.  
 
-9. Ihre Rechte 
+
+9. Ihre Rechte  
+
 
 Das Datenschutzrecht sieht umfangreiche Betroffenenrechte vor, welche wir in jedem Stadium der Datenverarbeitung gewährleisten. Die nachfolgenden Rechte können Sie durch formlose Mitteilung uns gegenüber ausüben. Ergeben sich hier Beschwerden, können Sie diese auch an unseren bestellten Datenschutzbeauftragten richten unter: datenschutzbeauftragter(at)attac.de oder telefonisch: 069 900 281 90
 
