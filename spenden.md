@@ -536,6 +536,8 @@ seo:
       keyName: property
     - name: 'og:image'
       value: /spenden/images/finance-for-the-people-900.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
