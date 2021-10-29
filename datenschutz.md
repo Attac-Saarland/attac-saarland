@@ -35,7 +35,7 @@ Attac Deutschland unterliegt, wie jede Organisation und jedes Unternehmen, den g
 
 Sie finden hier die Aufstellung aller relevanten Informationen für Sie als Nutzer*innen, gemäß den Anforderungen der DSGVO (Datenschutz-Grundverordnung der EU); darüber hinaus geben wir Ihnen noch weitere Informationen über unseren Umgang mit personenbezogenen Daten.
 
-### A) Informationen zum Datenschutz nach Art. 13 DSGVO (Datenschutz-Grundverordnung)
+## A) Informationen zum Datenschutz nach Art. 13 DSGVO (Datenschutz-Grundverordnung)
 1. Allgemeine Hinweise
 
 Die am 25. Mai 2018 in Kraft getretene Datenschutzgrundverordnung (DSGVO) ist eine EU-weite Verordnung, die die Verarbeitung personenbezogener Daten regelt. Diese soll den Schutz personenbezogener Daten in der Europäischen Union sicherstellen.
