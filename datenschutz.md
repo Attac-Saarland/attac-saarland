@@ -51,7 +51,7 @@ Wir verarbeiten die von Ihnen zur Verfügung gestellten personenbezogenen Daten 
 
 a) Möchten Sie bei Attac Mitglied werden, so verarbeiten wir Ihre personenbezogen Daten zur Anbahnung, Durchführung und Beendigung des Mitgliedschaftsverhältnisses; Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
 
-b) Möchten Sie bei uns Informationen anfragen, verarbeiten wir Ihre Kontaktdaten, um die gewünschte Information im Rahmen Ihrer Einwilligung bereit zu stellen; außerdem senden wir Ihnen zur Wahrung unserer berechtigten Interessen an der regelmäßigen Benachrichtigung über unsere aktuelle Arbeit vier Attac-Rundbriefe und vier Informations-/Spendenbriefe zu die dazu dienen, die satzungsmäßigen Vereinszwecke zu fördern; Rechtsgrundlage: Art. 6 Abs. 1 (f) DSGVO
+b) Möchten Sie bei uns Informationen anfragen, verarbeiten wir Ihre Kontaktdaten, um die gewünschte Information im Rahmen Ihrer Einwilligung bereit zu stellen; außerdem senden wir Ihnen zur Wahrung unserer berechtigten Interessen an der regelmäßigen Benachrichtigung über unsere aktuelle Arbeit vier Attac-Rundbriefe und vier Informations-/Spendenbriefe zu, die dazu dienen, die satzungsmäßigen Vereinszwecke zu fördern; Rechtsgrundlage: Art. 6 Abs. 1 (f) DSGVO
 
 c) Möchten Sie in dem von uns betriebenen Webshop Waren bestellen, verarbeiten wir Ihre Daten zur Anbahnung, Durchführung und Beendigung des Kaufvertrages; Rechtsgrundlage: Art. 6 Abs. 1 (b) DSGVO
 
