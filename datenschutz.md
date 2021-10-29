@@ -24,7 +24,7 @@ layout: page
 ---
 Der Schutz Ihrer persönlichen Daten liegt uns sehr am Herzen. Zählen Sie auf uns!
 
-Attac Deutschland unterliegt, wie jede Organisation und jedes Unternehmen, den gesetz­lichen Grundlagen gemäß Bundesdatenschutzgesetz und EU-Datenschutz-Grundverordnung (DSGVO). Diese Auflagen und Verpflichtungen nehmen wir sehr ernst; wir überwachen sie gemeinsam mit dem von Attac beauftragten unabhängigen Datenschutzbeauftragten.
+Attac Saar und Attac Deutschland unterliegt, wie jede Organisation und jedes Unternehmen, den gesetz­lichen Grundlagen gemäß Bundesdatenschutzgesetz und EU-Datenschutz-Grundverordnung (DSGVO). Diese Auflagen und Verpflichtungen nehmen wir sehr ernst; wir überwachen sie gemeinsam mit dem von Attac beauftragten unabhängigen Datenschutzbeauftragten.
 
 Über die gesetzliche Grundlage hinaus ist es für Attac selbstverständlich, politisch bewusst und umsichtig mit personenbezogenen Daten umzugehen. Wir tun alles, um die Privatsphäre unserer Mitglieder, Spender*innen, Aktiven, Interessierten und  Kund*innen zu schützen und die Sicherheit ihrer personenbezogenen Daten zu gewährleisten. Hierzu gehört auch die jeweils frühestmögliche Löschung aller personenbezogenen Daten.
 
