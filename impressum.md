@@ -101,7 +101,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 Bei Fragen und Problemen wenden Sie sich bitte an unseren Datenschutzbeauftragten unter <datenschutzbeauftragter@attac.de>.  
 
-Aktueller Hinweis zur Gemeinnützigkeit
+## Aktueller Hinweis zur Gemeinnützigkeit  
 Das Frankfurter Finanzamt hat Attac 2014 die Gemeinnützigkeit abgesprochen, weil wir angeblich zu allgemeinpolitisch aktiv sind. Seitdem dürfen wir keine Spendenbescheinigungen mehr ausstellen und Spenden an Attac können steuerlich nicht mehr geltend gemacht werden.
 
 Der Rechtsstreit ist noch nicht abgeschlossen. Am 26. Februar 2019 hat der Bundesfinanzhof das für Attac positive Urteil der ersten Instanz aufgehoben und das Verfahren zur erneuten Verhandlung an die erste Instanz zurückverwiesen. Notfalls sind wir entschlossen, Verfassungsbeschwerde einzureichen.
