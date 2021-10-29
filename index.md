@@ -741,7 +741,7 @@ sections:
         image_has_padding: false
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: large
+    grid_gap_vert: small
     enable_cards: true
     align: center
     padding_top: none
