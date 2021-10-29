@@ -8,8 +8,9 @@ traeger:
   60329 Frankfurt  
 
   Telefon: +49 69 900 281 -10  
-  
+
   Telefax: +49 69 900 281-99  
+  
   E-Mail: info@attac.de  "
 seo:
   title: Impressum
