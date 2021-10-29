@@ -40,6 +40,7 @@ Die Steuernummer ist: 45 250 52429
 Haus der Umwelt  
 Evangelisch-Kirch-Str. 8  
 66111 Saarbrücken  
+
 ## Vertretungsberechtigte
 
 Vorstand Attac Trägerverein e.V., Anschrift:
