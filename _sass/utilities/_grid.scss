@@ -24,7 +24,11 @@
     }
 }
 
-@include media-breakpoint-up(md) 
+@include media-breakpoint-up(md) {
+        .item__subtitle {
+        text-align: center;
+    }
+}
 
 .cell {
 	@include make-cell();
