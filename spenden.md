@@ -71,6 +71,7 @@ sections:
       Wichtig: Nach dem Urteil des Bundesfinanzhofs ist Attac aktuell nicht
       gemeinnützig, Spenden können somit steuerlich nicht geltend gemacht
       werden.  
+
       <br>
 
 
