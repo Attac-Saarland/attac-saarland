@@ -19,7 +19,7 @@ seo:
       value: 20 Jahre Attac Saar
     - name: 'twitter:description'
       value: Jubiläumsveranstaltung im Saarbrücker Schloss
-        - name: 'twitter:image'
+    - name: 'twitter:image'
       value: /ueber-attac/images/k2021082111430400-990.jpg
       relativeUrl: true
 layout: page
