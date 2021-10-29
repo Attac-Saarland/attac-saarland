@@ -26,4 +26,3 @@ seo:
         Datenschutzerklärung nach der DSGVO
 layout: page
 ---
-
