@@ -1,8 +1,7 @@
 ---
 title: Impressum
 traeger: >
-  "
-  ### Attac Trägerverein e.V.
+  "### Attac Trägerverein e.V.
 
   Münchener Straße 48  
   60329 Frankfurt  
