@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Datenschutzbestimmungen
+      value: DatensInformationen zum Datenschutz bei Attacchutzbestimmungen
     - name: 'twitter:description'
       value: >-
         Datenschutzerklärung nach der DSGVO
