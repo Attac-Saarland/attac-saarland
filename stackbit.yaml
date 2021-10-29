@@ -342,6 +342,7 @@ models:
         label: Titel
         description: The title of the page
         required: true
+      
       - type: model
         name: seo
         models:
