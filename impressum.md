@@ -21,7 +21,6 @@ seo:
       value: Angaben gemäß § 5 TMG
 layout: page
 ---
-## Impressum
 ### Angaben gemäß § 5 TMG
 Attac Deutschland ist ein Projekt des Attac Trägerverein e.V.  
 
