@@ -11,7 +11,7 @@ seo:
       value: Impressum
       keyName: property
     - name: 'og:description'
-      value: Verantwortlich für den Inhalt ist Dipl.-Psych. Sabine Kortbrae 
+      value: Angaben gemäß § 5 TMG
       keyName: property
     - name: 'twitter:card'
       value: summary
