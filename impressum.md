@@ -3,7 +3,6 @@ title: Impressum
 seo:
   title: Impressum
   description: Angaben gemäß § 5 TMG
-  
   extra:
     - name: 'og:type'
       value: website
@@ -102,7 +101,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 Bei Fragen und Problemen wenden Sie sich bitte an unseren Datenschutzbeauftragten unter <datenschutzbeauftragter@attac.de>.
    
-
+   
 ---   
 
 ## Aktueller Hinweis zur Gemeinnützigkeit
