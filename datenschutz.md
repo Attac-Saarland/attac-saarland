@@ -171,7 +171,7 @@ Alle personenbezogenen Daten werden standardmäßig über eine SSL-Verbindung ü
 
 **Attac Webseite und fremde Web-Dienste**
 
-Zur Bereitstellung der Webseite und Funktionen der Webseite verwenden die Webhosting-Dienste von Netlify Inc. (“Netlify”). Indem Sie personenbezogene Daten zur Verfügung stellen (beispielsweise über das Webformular), erklären Sie sich mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt persönlichen Daten nicht an Dritte weiter.
+Zur Bereitstellung der Webseite und Funktionen der Webseite verwenden die Webhosting-Dienste von Netlify Inc. (“Netlify”). Indem Sie personenbezogene Daten zur Verfügung stellen (beispielsweise über das Webformular), erklären Sie sich mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt persönliche Daten nicht an Dritte weiter.
 
 Weiterführende Informationen zu der Datenschutzrichtlinie von “Netlify” finden Sie unter https://www.netlify.com/privacy/ sowie https://www.netlify.com/gdpr/.
 
