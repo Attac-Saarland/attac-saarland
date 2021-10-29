@@ -115,7 +115,8 @@ g) Wenn Sie sich an einer von uns betriebenen Mitfahrbörse für eine Veranstalt
 h) Wenn der durch Ihre Einwilligung bestimmte Zweck der Verarbeitung Ihrer Daten beendet wurde (Beendigung Petition/Unterschriftensammlung/elektronische Abstimmung) löschen wir Ihre Daten spätestens nach zwei Monaten.  
 
 
-7. Kein Profiling 
+7. Kein Profiling  
+
 
 Ihre personenbezogenen Daten werden von uns nicht für eine Profilbildung verarbeitet. Zur Begründung und Durchführung des Vertragsverhältnisses nutzen wir grundsätzlich keine automatisierte Entscheidungsfindung.
 
