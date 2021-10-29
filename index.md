@@ -722,7 +722,7 @@ sections:
 
 
           [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
-      - title: Impressum & Datenschutz
+      - title: Rechtliches
         title_align: left
         content: |
           [Impressum](/impressum)
