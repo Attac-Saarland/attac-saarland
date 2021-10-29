@@ -21,7 +21,8 @@
 @include media-breakpoint-up(sm) {
 	.grid-gap-large {
 		@include make-grid-gap($grid-gap-large);
-	}
+    }
+    .cell
 }
 
 .cell {
