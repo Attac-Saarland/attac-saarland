@@ -540,6 +540,7 @@ seo:
       value: Spende
     - name: 'twitter:description'
       value: Attac unterstützen
-    - name: 'twitter:image
+    - name: 'twitter:image'
+      value: /spenden/images/finance-for-the-people-900.jpg
 layout: advanced
 ---
