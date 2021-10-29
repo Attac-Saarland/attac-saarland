@@ -24,7 +24,7 @@ sections:
       auf unsere Finanzen werfen. [Weitere
       Infos](http://www.attac-netzwerk.de/index.php?id=1429)
     content: >
-      ![Finance for the people](/spenden/images/finance-for-the-people-900.jpg)\
+      ![Finance for the people](/spenden/images/finance-for-the-people-900.jpg)
 
       <br>  
       
