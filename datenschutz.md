@@ -142,7 +142,8 @@ Sie haben das Recht auf Auskunft über die bei uns von Ihnen gespeicherten Daten
 Sofern die Verarbeitung Ihrer personenbezogenen Daten auf Grundlage einer Einwilligung erfolgt, haben Sie jederzeit das Recht, diese uns gegenüber zu widerrufen. Die Rechtsmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung wird dadurch nicht berührt.  
 
 
-**Beschwerderecht bei einer Aufsichtsbehörde
+**Beschwerderecht bei einer Aufsichtsbehörde**  
+
 
 Darüber hinaus haben Sie das Recht, sich mit einer Beschwerde an die zuständige Datenschutz-Aufsichtsbehörde zu wenden. Diese ist der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65021 Wiesbaden https://datenschutz.hessen.de oder telefonisch: 0611 1408-0
 
