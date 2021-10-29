@@ -55,7 +55,7 @@ IBAN: DE96 4306 0967 6007726100
 BIC: GENODEM 1 GLS
 
 **Webauftritt**
-Über Fragen zum Webauftritt oder Hinweise zu Fehlern auf der Seite freut sich das Webteam: webteam@attac.de.
+Über Fragen zum Webauftritt oder Hinweise zu Fehlern auf der Seite freut sich das Webteam: attac.saarland@gmail.com.
 Web-Administrator: Nico Wehnemann, nico.wehnemann@attac.de 
 Webredakteurin: Johanna Emge, webredaktion@attac.de 
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Stephanie Handtmann (Anschrift wie oben)
