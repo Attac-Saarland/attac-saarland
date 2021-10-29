@@ -147,8 +147,10 @@ Sofern die Verarbeitung Ihrer personenbezogenen Daten auf Grundlage einer Einwil
 
 Darüber hinaus haben Sie das Recht, sich mit einer Beschwerde an die zuständige Datenschutz-Aufsichtsbehörde zu wenden. Diese ist der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65021 Wiesbaden https://datenschutz.hessen.de oder telefonisch: 0611 1408-0
 
-## B) Datenverarbeitung bei der Nutzung von "BigBlueButton"
-Umfang der Datenverarbeitung
+## B) Datenverarbeitung bei der Nutzung von "BigBlueButton"  
+
+Umfang der Datenverarbeitung  
+
 Wenn Sie den von Attac zur Verfügung gestellten Dienst "BigBlueButton“ für die Durchführung von Video-Konferenzen, Online-Meetings und Webinaren nutzen, verarbeiten wir von Ihnen folgende Daten:
 1.    Angaben zum Benutzer: Vorname, Nachname, Nickname (Pseudonym), Benutzerkennung
 2.    Meeting-Metadaten: Thema, Beschreibung (optional), Teilnehmer-IP-Adressen, Geräte-/Hardware-Informationen
