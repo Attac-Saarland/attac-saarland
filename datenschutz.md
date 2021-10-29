@@ -185,7 +185,7 @@ Für die Verbreitung und Vermittlung unserer Themen und Inhalte nutzen wir auch 
 
 Für die Durchführung von Webinaren, die aufgrund der Veranstaltungsgröße oder aus organisatorischen Gründen nicht über unseren Big Blue Button-Server durchgeführt werden können, nutzen wir ClickMeeting. ClickMeeting verwendet Technologien, um Informationen über die Nutzer\*innen zu sammeln. Auf die Verwendung Ihrer Daten durch ClickMeeting haben wir keinen Einfluss. Informationen über den Datenschutz bei ClickMeeting finden Sie in deren Datenschutzerklärung unter https://clickmeeting.com/de/legal​​​​​​​.
 
-**Auskunftsrecht und Kontaktdaten**\*\***
+**Auskunftsrecht und Kontaktdaten**
 
 Ihnen steht jederzeit ein umfassendes Auskunftsrecht bezüglich der über Sie bei uns gespeicherten personenbezogenen Daten zu, sowie das Recht auf Berichtigung unrichtiger Daten, deren Sperrung oder Löschung.
 
