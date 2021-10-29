@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:description'
       value: Jubiläumsveranstaltung im Saarbrücker Schloss
     - name: 'twitter:image'
-      value: /ueber-attac/images/k2021082111430400-990.jpg
+      value: /20-jahre/images/20-jahre.jpg
       relativeUrl: true
 layout: page
 ---
