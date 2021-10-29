@@ -105,7 +105,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 ## Datenschatzbeauftragter  
 
-Bei Fragen und Problemen wenden Sie sich bitte an unseren Datenschutzbeauftragten unter datenschutzbeauftragter@attac.de.
+Bei Fragen und Problemen wenden Sie sich bitte an unseren Datenschutzbeauftragten unter [datenschutzbeauftragter@attac.de.
 
  
 
