@@ -1,17 +1,10 @@
 ---
 title: Impressum
-traeger: 
-  "### Attac Trägerverein e.V.
+traeger: >-
+  ### Attac Trägerverein e.V.
 
-  Münchener Straße 48  
-  <br>
-  60329 Frankfurt  
-  <br>
-  Telefon: +49 69 900 281 -10  
-  <br>
-  Telefax: +49 69 900 281-99  
-  <br>
-  E-Mail: info@attac.de  "
+  Münchener Straße 48   <br> 60329 Frankfurt   <br> Telefon: +49 69 900 281
+  -10   <br> Telefax: +49 69 900 281-99   <br> E-Mail: info@attac.de  
 seo:
   title: Impressum
   description: Angaben gemäß § 5 TMG
@@ -37,49 +30,48 @@ layout: page
 
 Attac Deutschland ist ein Projekt des Attac Trägerverein e.V.
 Der Verein ist beim Amtsgericht Frankfurt/Main unter der
-Vereinsregisternummer VR 12648 registriert.  
-Die Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz lautet: DE 247862896  
+Vereinsregisternummer VR 12648 registriert.\
+Die Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz lautet: DE 247862896\
 Die Steuernummer ist: 45 250 52429
 
-[**Satzung des Attac Trägervereins**](https://www.attac.de/fileadmin/user_upload/bundesebene/attac-strukturen/AttacTraegerverein-eV__Satzung_Sept2015.pdf)  
-
+[**Satzung des Attac Trägervereins**](https://www.attac.de/fileadmin/user_upload/bundesebene/attac-strukturen/AttacTraegerverein-eV\_\_Satzung_Sept2015.pdf)
 
 ## Vertretungsberechtigte
 
 Vorstand Attac Trägerverein e.V., Anschrift:
 Maria Wahle
-Dirk Friedrichs  
+Dirk Friedrichs
 
 **Geschäftskonto**
 (Spenden bitte ausschließlich an die Kontonummer auf unserer Spendenseite!)
 
 **Attac Trägerverein e.V.**
-Kontonummer: 600 77 26 100  
-GLS Gemeinschaftsbank  
-IBAN: DE96 4306 0967 6007726100  
-BIC: GENODEM 1 GLS  
+Kontonummer: 600 77 26 100\
+GLS Gemeinschaftsbank\
+IBAN: DE96 4306 0967 6007726100\
+BIC: GENODEM 1 GLS
 
 ## Webauftritt
 
-Über Fragen zum Webauftritt oder Hinweise zu Fehlern auf der Seite freut sich das Webteam: <attac.saarland@gmail.com>.  
-Web-Administrator und Webredakteur: Thomas Schulz, <attac.saarland@gmail.com>  
+Über Fragen zum Webauftritt oder Hinweise zu Fehlern auf der Seite freut sich das Webteam: <attac.saarland@gmail.com>.\
+Web-Administrator und Webredakteur: Thomas Schulz, <attac.saarland@gmail.com>\
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Thomas Schulz (Anschrift wie oben)
 
 ## Haftungshinweis / Haftungsausschluss
 
 Wir haben die Seite nach bestem Wissen erstellt. Im Falle von Verstößen gegen geltendes Recht bitten wir Sie, uns bereits im Vorfeld zu kontaktieren, um einen Rechtsstreit und dadurch anfallende Kosten zu vermeiden. Anwaltliche Abmahnungen und /oder Unterlassungserklärungen mit einhergehender Kostennote werden ohne vorhergehende Kontaktaufnahme im Sinne der Schadensminderungspflicht als unbegründet zurückgewiesen und mit einer negativen Feststellungsklage beantwortet.
 
-**Haftung für Inhalte**  
+**Haftung für Inhalte**\
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 
 Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-**Haftung für Links**  
+**Haftung für Links**\
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
 
 Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
-**Urheberrecht**  
+**Urheberrecht**\
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
@@ -91,23 +83,22 @@ Insofern nicht anders vermerkt, stehen die unveränderten Texte unter Angabe ihr
 
 (Spenden bitte ausschließlich an die Kontonummer auf unserer [Spendenseite](/spenden)!)
 
-**Attac Trägerverein e.V.**  
-Kontonummer: 600 77 26 100  
-GLS Gemeinschaftsbank  
-BLZ: 430 609 67  
-IBAN: DE96 4306 0967 6007726100  
-BIC: GENODEM 1 GLS  
+**Attac Trägerverein e.V.**\
+Kontonummer: 600 77 26 100\
+GLS Gemeinschaftsbank\
+BLZ: 430 609 67\
+IBAN: DE96 4306 0967 6007726100\
+BIC: GENODEM 1 GLS
 
 ## Haftungshinweis
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
-## Datenschatzbeauftragter
+## Datenschutz-Beauftragter
 
-Bei Fragen und Problemen wenden Sie sich bitte an unseren Datenschutzbeauftragten unter <datenschutzbeauftragter@attac.de>.
-   
-   
----   
+Bei Fragen und Problemen wenden Sie sich bitte an unseren Datenschutzbeauftragten unter <attac.saarland@gmail.com>.
+
+***
 
 ## Aktueller Hinweis zur Gemeinnützigkeit
 
