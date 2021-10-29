@@ -99,7 +99,7 @@ BLZ: 430 609 67
 IBAN: DE96 4306 0967 6007726100
 BIC: GENODEM 1 GLS
 
-Haftungshinweis 
+## Haftungshinweis 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 Datenschatzbeauftragter
