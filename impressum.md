@@ -23,7 +23,8 @@ layout: page
 ---
 ## Impressum
 ### Angaben gemäß § 5 TMG
-Attac Deutschland ist ein Projekt des Attac Trägerverein e.V.
+Attac Deutschland ist ein Projekt des Attac Trägerverein e.V.  
+
 Der Verein ist beim Amtsgericht Frankfurt/Main unter der
 Vereinsregisternummer VR 12648 registriert.
 Die Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz lautet: DE 247862896
