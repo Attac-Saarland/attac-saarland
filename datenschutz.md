@@ -3,7 +3,7 @@ title: >-
   Informationen zum Datenschutz bei Attac
 subtitle: ''
 seo:
-  title: Datenschutzbestimmungen
+  title: Informationen zum Datenschutz bei Attac
   description: >-
     Datenschutzerklärung nach der DSGVO
   extra:
