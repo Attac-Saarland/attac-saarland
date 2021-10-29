@@ -13,6 +13,9 @@ seo:
     - name: 'og:description'
       value: Jubiläumsveranstaltung im Saarbrücker Schloss
       keyName: property
+    - name: 'og:image'
+      value: /ueber-attac/images/k2021082111430400-990.jpg
+      keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
