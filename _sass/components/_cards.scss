@@ -41,10 +41,6 @@
 	}
 }
 
-.card ul {
-    list-style-type: none;
-}
-
 @include media-breakpoint-up(md) {
 	.card--horiz {
 		.card__media--fill {
