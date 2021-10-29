@@ -477,14 +477,6 @@ sections:
           Genau wie ich hat sich Attac dem Fairen Handel und dem Fairen Handeln
           verschrieben.
 
-      - title: Stefan Winkler
-        image: images/klDSCF9869_500.jpg
-        image_alt: Speaker 1 photo
-        image_position: top
-        content: >+
-          Attac setzt sich für gerechte Welthandelsregeln jenseits von
-          Freihandel und nationalistisch motiviertem Protektionismus ein.
-
       - title: Volker Wieland
         subtitle: Wald- und Wiesenläufer
         title_align: left
@@ -500,6 +492,14 @@ sections:
         image: images/klVolkerWielandDSCF9941_500.jpg
         content: |+
           Klimagerechte Mobilität beginnt mit dem ersten Schritt.
+
+      - title: Stefan Winkler
+        image: images/klDSCF9869_500.jpg
+        image_alt: Speaker 1 photo
+        image_position: top
+        content: >+
+          Attac setzt sich für gerechte Welthandelsregeln jenseits von
+          Freihandel und nationalistisch motiviertem Protektionismus ein.
 
       - title: Attac in Aktion
         subtitle: 'Foto: Gerhard Schaal'
