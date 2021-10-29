@@ -57,7 +57,6 @@ BIC: GENODEM 1 GLS
 **Webauftritt**
 Über Fragen zum Webauftritt oder Hinweise zu Fehlern auf der Seite freut sich das Webteam: attac.saarland@gmail.com.
 Web-Administrator und Webredakteur: Thomas Schulz, attac.saarland@gmail.com
-Webredakteurin: Johanna Emge, webredaktion@attac.de 
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Stephanie Handtmann (Anschrift wie oben)
 
 Für die Webangebote der Regionalgruppen, AGs und Gremien von Attac zeichnen die jeweiligen Betreuer*innen verantwortlich.
