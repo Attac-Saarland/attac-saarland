@@ -227,7 +227,8 @@ Ihnen steht jederzeit ein umfassendes Auskunftsrecht bezüglich der über Sie be
 Wenn Sie Auskunft über Ihre personenbezogenen Daten beziehungsweise deren Korrektur oder Löschung wünschen oder weitergehende Fragen über die Verwendung Ihrer uns überlassenen personenbezogenen Daten haben, kontaktieren Sie bitte: webadmin[at]attac.de  
 
 
-Datenschutzbeauftragter 
+**Datenschutzbeauftragter **  
+
 
 Bei Fragen zum Datenschutz bei Attac können Sie sich auch direkt an unseren Datenschutzbeauftragten wenden: datenschutzbeauftragter[at]attac.de oder telefonisch: 069 900 281 90.
 
