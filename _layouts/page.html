@@ -9,7 +9,7 @@ layout: body
         </header>
 	    {% assign traeger_is_not_empty = page.traeger | is_not_empty %} 
         {% if traeger_is_not_empty %}
-            <div>{{  page.traeger }}</div>
+            <div class="traeger">{{  page.traeger }}</div>
 	    {% endif %}
 		<div class="page__body text-block">
 			{{ content }}
