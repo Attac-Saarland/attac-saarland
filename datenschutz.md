@@ -121,7 +121,8 @@ h) Wenn der durch Ihre Einwilligung bestimmte Zweck der Verarbeitung Ihrer Daten
 Ihre personenbezogenen Daten werden von uns nicht für eine Profilbildung verarbeitet. Zur Begründung und Durchführung des Vertragsverhältnisses nutzen wir grundsätzlich keine automatisierte Entscheidungsfindung.  
 
 
-8. Folgen der Nichtbereitstellung Ihrer personenbezogenen Daten 
+8. Folgen der Nichtbereitstellung Ihrer personenbezogenen Daten  
+
 
 Selbstverständlich sind Sie zu keiner Zeit verpflichtet, uns Ihre Daten zur Verfügung zu stellen. Allerdings befragen wir Sie in unseren Formularen nur nach den nötigsten Daten – wenn wir diese nicht verfügbar haben, können wir Ihren Anliegen (Mitgliedschaft, Newsletter, Spenden etc.) nicht nachkommen.
 
