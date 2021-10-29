@@ -27,5 +27,3 @@ seo:
 layout: page
 ---
 
-
-Widerspruch. Ihre Rechte können Sie schriftlich oder per E-Mail gegenüber der im Impressum genannten Stelle geltend machen. Ungeachtet dessen haben Sie das Recht auf Beschwerde bei einer Aufsichtsbehörde ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts der mutmaßlichen Datenschutzverletzung, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die Datenschutzgrundverordnung verstößt.
