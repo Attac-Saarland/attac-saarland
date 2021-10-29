@@ -75,7 +75,8 @@ h) Möchten Sie sich an einer von uns betriebenen elektronischen Abstimmung bete
 
 Eine über die vorbenannten Zwecke hinausgehende Verarbeitung, insbesondere die Übermittlung Ihrer personenbezogenen Daten an Dritte, erfolgt nur, soweit Sie diesbezüglich ausdrücklich eingewilligt haben oder aber, soweit wir dazu gesetzlich oder durch richterlichen Beschluss verpflichtet werden (Art. 6 Abs. 1c DSGVO).
 
-h) Möchten Sie sich an einer von uns betriebenen Petition/Unterschriftensammlung teilnehmen,  verarbeiten wir Ihre Daten gemäß Ihrer Einwilligung nach Rechtsgrundlage: Art. 6 Abs. 1 (a) DSGVO.
+h) Möchten Sie sich an einer von uns betriebenen Petition/Unterschriftensammlung teilnehmen,  verarbeiten wir Ihre Daten gemäß Ihrer Einwilligung nach Rechtsgrundlage: Art. 6 Abs. 1 (a) DSGVO.  
+
 
 5. Empfänger*innen Ihrer Daten   
 
