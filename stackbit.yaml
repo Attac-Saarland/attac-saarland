@@ -342,7 +342,9 @@ models:
         label: Titel
         description: The title of the page
         required: true
-      
+      - type: content
+        name: traeger
+        label: 
       - type: model
         name: seo
         models:
