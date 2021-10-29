@@ -30,7 +30,7 @@ Attac Saar und Attac Deutschland unterliegen, wie jede Organisation und jedes Un
 
 Sie finden hier die Aufstellung aller relevanten Informationen für Sie als Nutzer\*innen, gemäß den Anforderungen der DSGVO (Datenschutz-Grundverordnung der EU); darüber hinaus geben wir Ihnen noch weitere Informationen über unseren Umgang mit personenbezogenen Daten.
 
-## A) Informationen zum Datenschutz nach Art. 13 DSGVO (Datenschutz-Grundverordnung)
+### A) Informationen zum Datenschutz nach Art. 13 DSGVO (Datenschutz-Grundverordnung)
 
 I. Allgemeine Hinweise  
 
