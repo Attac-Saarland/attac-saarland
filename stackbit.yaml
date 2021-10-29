@@ -254,6 +254,14 @@ models:
         name: content
         label: Inhalt Fußzeile
         description: The copyright text
+      - type: boolean
+        name: show_date
+        label: Jahresangabe aktivieren
+        description: Angabe Jahreszahl
+      - type: string
+        name: jahr
+        label: aktuelles Jahr
+        description: Jahr eintragen
       - type: list
         name: links
         label: Links
