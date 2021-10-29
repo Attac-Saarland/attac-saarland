@@ -38,7 +38,7 @@ Mit über 700 Mitgliedern gehört **Attac Saar** zu den größeren Regionalgrupp
 
 Sieben Jahre später kam Bové erneut nach Saarbrücken: Vom 1. bis 6. August 2008 fand nämlich die „European Summer University“ (ESU), das erste Europatreffen von Attac, auf dem Saarbrücker Uni-Campus statt, mit 1.300 Teilnehmer\*innen aus über 40 Ländern und unzähligen Einzelveranstaltungen ein Meilenstein für das globalisierungskritische Netzwerk.
 
-![Attak in Aktion](/ueber-uns/images/k2021082111430400-990.jpg)
+![Attak in Aktion](/ueber-attac/images/k2021082111430400-990.jpg)
 Foto: Gerhard Schaal
 
 Attac-Saar-Gründungsmitglied Marie-Louise Innocent ist Mitglied des bundesweiten Attac-Rates. Regionalsprecher von Attac Saar ist Thomas Schulz.
