@@ -171,6 +171,11 @@ Alle personenbezogenen Daten werden standardmäßig über eine SSL-Verbindung ü
 
 **Attac Webseite und fremde Web-Dienste**
 
+Netlify
+Zur Bereitstellung der Webseite und Funktionen der Webseite verwenden die Webhosting-Dienste von Netlify Inc. (“Netlify”). Indem Sie personenbezogene Daten zur Verfügung stellen (beispielsweise über das Kontakformular oder den Kleinanzeigen), erklären Sie sich mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt persönlichen Daten nicht an Dritte weiter.
+
+Weiterführende Informationen zu der Datenschutzrichtlinie von “Netlify” finden Sie unter https://www.netlify.com/privacy/ sowie https://www.netlify.com/gdpr/.
+
 Wir setzen zum Einbinden von Videos den Anbieter YouTube (Google) / Google ein. Normalerweise wird bereits bei Aufruf einer Seite mit eingebetteten Videos Ihre IP-Adresse an YouTube gesendet und Cookies auf Ihrem Rechner installiert. Wir haben unsere YouTube-Videos jedoch mit dem erweiterten Datenschutzmodus eingebunden (in diesem Fall nimmt YouTube immer noch Kontakt zu dem Dienst Double Klick von Google auf, doch werden dabei laut der Datenschutzerklärung von Google personenbezogene Daten nicht ausgewertet). Dadurch werden von YouTube keine Informationen über die Besucher mehr gespeichert, es sei denn, sie sehen sich das Video an. Wenn Sie das Video anklicken, wird Ihre IP-Adresse an YouTube übermittelt und YouTube erfährt, dass Sie das Video angesehen haben. Sind Sie bei YouTube eingeloggt, wird diese Information auch Ihrem Benutzerkonto zugeordnet (dies können Sie verhindern, indem Sie sich vor dem Aufrufen des Videos bei YouTube ausloggen). Auf die Verwendung Ihrer Daten durch YouTube haben wir keinen Einfluss. Informationen über Datenschutz bei YouTube finden Sie in deren Datenschutzerklärung unter https://policies.google.com/privacy?hl=de
 
 Für die Verbreitung und Vermittlung unserer Themen und Inhalte nutzen wir auch den Nachrichtendienst Twitter. Twitter verwendet Technologien, um Informationen über die Nutzer\*innen zu sammeln. Auf die Verwendung Ihrer Daten durch Twitter haben wir keinen Einfluss. Informationen über den Datenschutz bei Twitter finden Sie in deren Datenschutzerklärung unter https://twitter.com/de/privacy
