@@ -1,6 +1,6 @@
 ---
 title: Impressum
-traeger: 
+traeger: ''
 seo:
   title: Impressum
   description: Angaben gemäß § 5 TMG
