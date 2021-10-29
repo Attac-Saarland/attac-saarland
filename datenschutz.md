@@ -90,7 +90,8 @@ Ihre personenbezogenen Daten werden bei uns gepflegt und verarbeitet, wir achten
 
 Soweit Sie als Interessent*in oder Mitglied eingewilligt haben, übermitteln wir Ihre Daten an die für sie zuständige Attac-Regionalgruppe. Sie können dieses Einverständnis jederzeit zurückziehen.
 
-Dienstleister (Auftragsverarbeiter nach Art. 28 DSGVO) können Ihre Daten erhalten (wie bspw. ein Lettershop oder ein IT-Service-Dienstleister). Alle unsere Dienstleister verarbeiten auftragsweise Daten ausschließlich innerhalb Deutschlands und werden vertraglich zu angemessenen technischen und organisatorischen Maßnahmen zur Gewährleistung des Datenschutzes Ihrer Daten, sowie zur Wahrung des Datengeheimnisses, verpflichtet. Eine Datenverarbeitung in einem sogenannten Drittstaat findet nicht statt.
+Dienstleister (Auftragsverarbeiter nach Art. 28 DSGVO) können Ihre Daten erhalten (wie bspw. ein Lettershop oder ein IT-Service-Dienstleister). Alle unsere Dienstleister verarbeiten auftragsweise Daten ausschließlich innerhalb Deutschlands und werden vertraglich zu angemessenen technischen und organisatorischen Maßnahmen zur Gewährleistung des Datenschutzes Ihrer Daten, sowie zur Wahrung des Datengeheimnisses, verpflichtet. Eine Datenverarbeitung in einem sogenannten Drittstaat findet nicht statt.  
+
 
 6. Dauer der Speicherung und Löschung der Daten 
 
