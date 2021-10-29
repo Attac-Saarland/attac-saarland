@@ -24,8 +24,7 @@ seo:
       value: Datenschutzbestimmungen
     - name: 'twitter:description'
       value: >-
-        Datenschutzerklärung nach der DSGVO für die Praxishomepage
-        www.psychotherapie-kortbrae.de
+        Datenschutzerklärung nach der DSGVO
 layout: page
 ---
 ##### Name und Anschrift des Verantwortlichen
