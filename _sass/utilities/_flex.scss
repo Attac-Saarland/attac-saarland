@@ -76,7 +76,8 @@
 		}
 
 		.flex-#{$infix}-column {
-			flex-direction: column;
+            flex-direction: column;
+            justify-content: center;
 		}
 
 		.flex-#{$infix}-row {
