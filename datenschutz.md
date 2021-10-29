@@ -163,7 +163,8 @@ Wenn Sie den von Attac zur Verfügung gestellten Dienst "BigBlueButton“ für d
 Sollte dies doch einmal der Fall sein, werden die Teilnehmer*innen informiert und bekommen die Gelegenheit, ihr Einverständnis zu geben (im Chat, sodass das Einverständnis per Screenshot dokumentiert werden kann).  
 
 
-**Zwecke der Datenverarbeitung
+**Zwecke der Datenverarbeitung**  
+
 Die Verarbeitung Ihrer oben genannten personenbezogenen Daten dient dazu, Ihnen „BigBlueButton“ als Tool für die Durchführung von Video-Konferenzen, Online-Meetings und Webinaren zur Verfügung stellen zu können und die genannten Veranstaltungs-Formate über „BigBlueButton“ realisieren zu können. 
 
 Rechtsgrundlage für die Verarbeitung personenbezogener Daten
