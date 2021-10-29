@@ -61,12 +61,16 @@ sections:
       BIC: GENODEM 1 GLS
 
 
-      GLS Gemeinschaftsbank
+      GLS Gemeinschaftsbank  
+
+
 
 
       Wichtig: Nach dem Urteil des Bundesfinanzhofs ist Attac aktuell nicht
       gemeinnützig, Spenden können somit steuerlich nicht geltend gemacht
-      werden.
+      werden.  
+
+
 
 
       Das Verfahren wurde zurückverwiesen an die erste Instanz, das Hessische
