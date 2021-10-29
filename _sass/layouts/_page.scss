@@ -18,3 +18,10 @@
     color: $color-dark-body-text;
     padding: $spacer;
 }
+
+@include media-breakpoint-down(sm) {
+    .traeger {
+        float: none;
+        margin-left: 0;
+    }
+}
