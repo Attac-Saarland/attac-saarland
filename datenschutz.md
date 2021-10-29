@@ -196,10 +196,10 @@ Bei Fragen zum Datenschutz bei Attac können Sie sich auch direkt an unseren Dat
 Frankfurt, 22. Juni 2021
 www.attac.de
 
-Attac Deutschland
-Münchener Straße 48
-60329 Frankfurt
-Telefon:: +49 69 900 281 -10
-Telefax: +49 69 900 281-99
-E-Mail: info@attac.de
-Web: www.attac.de
+Attac Deutschland  
+Münchener Straße 48  
+60329 Frankfurt  
+Telefon:: +49 69 900 281 -10  
+Telefax: +49 69 900 281-99  
+E-Mail: info@attac.de  
+Web: www.attac.de  
