@@ -54,7 +54,7 @@ GLS Gemeinschaftsbank
 IBAN: DE96 4306 0967 6007726100
 BIC: GENODEM 1 GLS
 
-**Webauftritt**
+## Webauftritt**
 
 Über Fragen zum Webauftritt oder Hinweise zu Fehlern auf der Seite freut sich das Webteam: attac.saarland@gmail.com.
 Web-Administrator und Webredakteur: Thomas Schulz, attac.saarland@gmail.com
