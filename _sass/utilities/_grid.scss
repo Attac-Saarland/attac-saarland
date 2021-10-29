@@ -22,7 +22,9 @@
 	.grid-gap-large {
 		@include make-grid-gap($grid-gap-large);
     }
-    .
+    .item__subtitle {
+            text-align: center;
+    }
 }
 
 .cell {
