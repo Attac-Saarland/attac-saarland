@@ -534,11 +534,18 @@ seo:
     - name: 'og:description'
       value: Attac unterstützen
       keyName: property
+    - name: 'og:image'
+      value: /spenden/images/finance-for-the-people-900.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Spende
     - name: 'twitter:description'
       value: Attac unterstützen
+    - name: 'twitter:image'
+      value: /spenden/images/finance-for-the-people-900.jpg
+      relativeUrl: true
 layout: advanced
 ---
