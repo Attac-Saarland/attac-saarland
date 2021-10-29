@@ -745,7 +745,7 @@ sections:
     enable_cards: true
     align: center
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: large
     background_color: none
 seo:
   title: 20 Jahre Attac Saar
