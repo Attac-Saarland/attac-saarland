@@ -89,7 +89,7 @@ Insofern nicht anders vermerkt, stehen die unveränderten Texte unter Angabe ihr
 
 ## Geschäftskonto  
 
-(Spenden bitte ausschließlich an die Kontonummer auf unserer [Spendenseite](/spenden!)
+(Spenden bitte ausschließlich an die Kontonummer auf unserer [Spendenseite](/spenden)!)
 
 **Attac Trägerverein e.V.**  
 
