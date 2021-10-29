@@ -63,7 +63,7 @@ Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Thomas Schulz (Anschrift 
 
 **Haftungshinweis / Haftungsausschluss**  
 
-Wir haben die Seite nach bestem Wissen erstellt. Im Falle von Verstößen gegen geltendes Recht bitten wir Sie, uns bereits im Vorfeld zu kontaktieren, um einen Rechtsstreit und dadurch anfallende Kosten zu vermeiden. Anwaltliche Abmahnungen und /oder Unterlassungserklärungen mit einhergehender Kostennote werden ohne vorhergehende Kontaktaufnahme im Sinne der Schadensminderungspflicht als unbegründet zurückgewiesen und mit einer negativen Feststellungsklage beantwortet.
+Wir haben die Seite nach bestem Wissen erstellt. Im Falle von Verstößen gegen geltendes Recht bitten wir Sie, uns bereits im Vorfeld zu kontaktieren, um einen Rechtsstreit und dadurch anfallende Kosten zu vermeiden. Anwaltliche Abmahnungen und /oder Unterlassungserklärungen mit einhergehender Kostennote werden ohne vorhergehende Kontaktaufnahme im Sinne der Schadensminderungspflicht als unbegründet zurückgewiesen und mit einer negativen Feststellungsklage beantwortet.  
 
 Haftung für Inhalte
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
