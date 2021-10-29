@@ -204,7 +204,8 @@ Für die Analyse der Nutzung der Attac Webseite nutzen wir Piwik (Matomo), ein O
 
 Unser Web-Hoster speichert keine Daten von den Nutzer*innen unserer Webseiten.
 
-Bei der Suchfunktion auf der Attac-Webseite setzen wir eine eigens entwickelte Suchmaschine ein, die keine Nutzer*innendaten (IP-Adresse, Browser, Uhrzeit, etc.) speichert.
+Bei der Suchfunktion auf der Attac-Webseite setzen wir eine eigens entwickelte Suchmaschine ein, die keine Nutzer*innendaten (IP-Adresse, Browser, Uhrzeit, etc.) speichert.  
+
 
 Fremde Web-Dienste
 
