@@ -61,7 +61,7 @@ Web-Administrator und Webredakteur: Thomas Schulz, attac.saarland@gmail.com
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Thomas Schulz (Anschrift wie oben)
 
 
-**Haftungshinweis / Haftungsausschluss**  
+## Haftungshinweis / Haftungsausschluss**  
 
 Wir haben die Seite nach bestem Wissen erstellt. Im Falle von Verstößen gegen geltendes Recht bitten wir Sie, uns bereits im Vorfeld zu kontaktieren, um einen Rechtsstreit und dadurch anfallende Kosten zu vermeiden. Anwaltliche Abmahnungen und /oder Unterlassungserklärungen mit einhergehender Kostennote werden ohne vorhergehende Kontaktaufnahme im Sinne der Schadensminderungspflicht als unbegründet zurückgewiesen und mit einer negativen Feststellungsklage beantwortet.  
 
