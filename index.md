@@ -50,7 +50,7 @@ sections:
         image_position: left
         image_width: twenty-five
     grid_cols: three
-    grid_gap_horiz: medium
+    grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: false
     align: center
