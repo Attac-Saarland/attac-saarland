@@ -93,7 +93,8 @@ Soweit Sie als Interessent*in oder Mitglied eingewilligt haben, übermitteln wir
 Dienstleister (Auftragsverarbeiter nach Art. 28 DSGVO) können Ihre Daten erhalten (wie bspw. ein Lettershop oder ein IT-Service-Dienstleister). Alle unsere Dienstleister verarbeiten auftragsweise Daten ausschließlich innerhalb Deutschlands und werden vertraglich zu angemessenen technischen und organisatorischen Maßnahmen zur Gewährleistung des Datenschutzes Ihrer Daten, sowie zur Wahrung des Datengeheimnisses, verpflichtet. Eine Datenverarbeitung in einem sogenannten Drittstaat findet nicht statt.  
 
 
-6. Dauer der Speicherung und Löschung der Daten 
+6. Dauer der Speicherung und Löschung der Daten  
+
 
 Ihre Daten werden nur solange gespeichert, wie es für die vorgenannten Zwecke erforderlich ist, oder uns gesetzliche Aufbewahrungsfristen zur Speicherung verpflichten.
 
