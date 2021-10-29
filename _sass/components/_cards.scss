@@ -53,6 +53,7 @@
 @include media-breakpoint-down(md) {
     .card ul {
         list-style-type: none;
+            text-decoration: underline;
     }
 }
 
