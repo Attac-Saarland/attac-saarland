@@ -8,8 +8,8 @@ layout: body
 			<h1 class="page__title">{{ page.title }}</h1>
         </header>
 	    {% assign traeger_is_not_empty = page.traeger | is_not_empty %} 
-	    {% if traeger_is_not_empty %}
-		{% assign has_image = true %}
+        {% if traeger_is_not_empty %}
+        
 	    {% endif %}
 		<div class="page__body text-block">
 			{{ content }}
