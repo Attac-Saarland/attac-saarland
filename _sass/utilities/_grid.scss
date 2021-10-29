@@ -24,7 +24,7 @@
     }
 }
 
-@include media-breakpoint-up()
+@include media-breakpoint-up(md) 
 
 .cell {
 	@include make-cell();
