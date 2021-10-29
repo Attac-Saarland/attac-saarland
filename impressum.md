@@ -103,7 +103,7 @@ BIC: GENODEM 1 GLS
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
-Datenschatzbeauftragter
+## Datenschatzbeauftragter
 Bei Fragen und Problemen wenden Sie sich bitte an unseren Datenschutzbeauftragten unter datenschutzbeauftragter@attac.de.
 
  
