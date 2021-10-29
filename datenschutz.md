@@ -15,8 +15,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Datenschutzerklärung nach der DSGVO für die Praxishomepage
-        www.psychotherapie-kortbrae.de
+        Datenschutzerklärung nach der DSGVO
       keyName: property
     - name: 'twitter:card'
       value: summary
