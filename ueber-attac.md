@@ -14,7 +14,7 @@ seo:
       value: Alles was ihr schon immer über uns wissen wolltet
       keyName: property
     - name: 'og:image'
-      value: images/ueber-uns/finance-for-the-people-900.jpg
+      value: images/ueber-attac/k2021082111430400-990.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: Alles was ihr schon immer über uns wissen wolltet
     - name: 'twitter:image'
-      value: images/ueber-uns/finance-for-the-people-900.jpg
+      value: images/ueber-uns/k2021082111430400-990.jpg
       relativeUrl: true
 layout: page
 ---
@@ -38,7 +38,7 @@ Mit über 700 Mitgliedern gehört **Attac Saar** zu den größeren Regionalgrupp
 
 Sieben Jahre später kam Bové erneut nach Saarbrücken: Vom 1. bis 6. August 2008 fand nämlich die „European Summer University“ (ESU), das erste Europatreffen von Attac, auf dem Saarbrücker Uni-Campus statt, mit 1.300 Teilnehmer\*innen aus über 40 Ländern und unzähligen Einzelveranstaltungen ein Meilenstein für das globalisierungskritische Netzwerk.
 
-![Attak in Aktion](/ueber-uns/images/k2021082111430400-990.jpg)
+![Attak in Aktion](/ueber-attac/images/k2021082111430400-990.jpg)
 Foto: Gerhard Schaal
 
 Attac-Saar-Gründungsmitglied Marie-Louise Innocent ist Mitglied des bundesweiten Attac-Rates. Regionalsprecher von Attac Saar ist Thomas Schulz.
@@ -49,5 +49,5 @@ Der Vorstand des Deutschen Gewerkschaftsbundes im Saarland ist Mitglied bei Atta
 
 Die Abkürzung Attac steht im Deutschen für: „Vereinigung zur Besteuerung von Finanztransaktionen zur Hilfe der Bürger“.
 
-![5 Jahre Attac](images/5-jahre-attac.png)
+![5 Jahre Attac](/ueber-attac/images/5-jahre-attac.png)
 Rückblick auf 5 Jahre Attac 2007
