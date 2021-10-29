@@ -64,7 +64,7 @@ sections:
       GLS Gemeinschaftsbank
 
 
-      \<br>
+      <br>
 
 
       Wichtig: Nach dem Urteil des Bundesfinanzhofs ist Attac aktuell nicht
