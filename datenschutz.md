@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Informationen zum Datenschutz
+      value: Informationen zum Datenschutz bei Attac
     - name: 'twitter:description'
       value: >-
         Datenschutzerklärung nach der DSGVO
