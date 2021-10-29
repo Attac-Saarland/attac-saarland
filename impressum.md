@@ -1,6 +1,7 @@
 ---
 title: Impressum
-traeger: "
+traeger: >
+  "
   ### Attac Trägerverein e.V.
 
   Münchener Straße 48  
