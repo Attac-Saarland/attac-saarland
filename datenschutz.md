@@ -197,7 +197,7 @@ Zugang zu den personenbezogenen Daten haben in Attac ausschließlich einzelne Mi
 Alle personenbezogenen Daten werden standardmäßig über eine SSL-Verbindung übertragen. SSL gewährleistet eine sichere und verschlüsselte, von außen nicht zugängliche Datenübertragung (erkennbar am "s" im "https://" in der Adresszeile des Webbrowsers). Für E-Mails können wir die Sicherheit der gesendeten Daten auf dem Übertragungsweg nicht gewährleisten.  
 
 
-Attac Webseite 
+**Attac Webseite 
 
 Für die Analyse der Nutzung der Attac Webseite nutzen wir Piwik (Matomo), ein OpenSource-Web-Analysedienst, den wir auf unserem eigenen abgesicherten Server betreiben. Unser Analyseprogramm verwendet sogenannte Cookies – Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) werden nur auf unserem Server gespeichert. Wir nutzen diese Informationen ausschließlich, um die Nutzung unserer Website pseudonymisiert auszuwerten. Wir geben keinerlei Daten an Dritte weiter.
 
