@@ -23,7 +23,6 @@ layout: page
 ---
 ### Angaben gemäß § 5 TMG
 Attac Deutschland ist ein Projekt des Attac Trägerverein e.V. 
-
 Der Verein ist beim Amtsgericht Frankfurt/Main unter der
 Vereinsregisternummer VR 12648 registriert.  
 
