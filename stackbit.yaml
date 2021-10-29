@@ -342,7 +342,7 @@ models:
         label: Titel
         description: The title of the page
         required: true
-      - type: content
+      - type: markdown
         name: traeger
         label: Trägerverein
         description: Daten zum Trägerverein
