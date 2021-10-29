@@ -540,5 +540,6 @@ seo:
       value: Spende
     - name: 'twitter:description'
       value: Attac unterstützen
+    - name: 'twitter:image
 layout: advanced
 ---
