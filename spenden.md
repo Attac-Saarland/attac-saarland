@@ -534,7 +534,8 @@ seo:
     - name: 'og:description'
       value: Attac unterstützen
       keyName: property
-    - name: 'og:image
+    - name: 'og:image'
+      valu
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
