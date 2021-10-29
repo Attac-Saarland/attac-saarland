@@ -729,7 +729,7 @@ sections:
 
           Datenschutz
 
-          Kontakt
+          [Kontakt](mailto:attac.saarland@gmail.com)
         content_align: left
         actions: []
         actions_align: left
