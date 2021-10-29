@@ -14,7 +14,7 @@ seo:
       value: Alles was ihr schon immer über uns wissen wolltet
       keyName: property
     - name: 'og:image'
-      value: images/ueber-attac/finance-for-the-people-900.jpg
+      value: images/ueber-attac/k2021082111430400-990.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
