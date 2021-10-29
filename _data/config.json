@@ -34,8 +34,8 @@
                 "style": "link"
             },
             {
-                "label": "Unterstützen!",
-                "url": "/unterstuetzen",
+                "label": "Spenden",
+                "url": "/spenden",
                 "style": "link"
             },
             {
@@ -63,7 +63,9 @@
         "has_secondary_nav": false,
         "has_tertiary_nav": false,
         "has_social": false,
-        "content": "Attac Saar"
+        "content": "Attac Saar",
+        "show_date": true,
+        "jahr": 2021
     },
-    "domain": "https://attac-saarland.netlify.app/"
+    "domain": "https://attac-jekyll-6c6b9.netlify.app/"
 }
