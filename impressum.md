@@ -40,7 +40,7 @@ Telefon:: +49 69 900 281 -10
 Telefax: +49 69 900 281-99
 E-Mail: info@attac.de
 
-Vertretungsberechtigte
+**Vertretungsberechtigte**
 Vorstand Attac Trägerverein e.V., Anschrift wie rechts:
 Maria Wahle
 Dirk Friedrichs
