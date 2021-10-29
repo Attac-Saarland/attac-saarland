@@ -5,8 +5,7 @@ subtitle: ''
 seo:
   title: Datenschutzbestimmungen
   description: >-
-    Datenschutzerklärung nach der DSGVO für die Praxishomepage
-    www.psychotherapie-kortbrae.de
+    Datenschutzerklärung nach der DSGVO
   extra:
     - name: 'og:type'
       value: website
