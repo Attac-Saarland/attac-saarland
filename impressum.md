@@ -45,7 +45,7 @@ Vorstand Attac Trägerverein e.V., Anschrift wie rechts:
 Maria Wahle
 Dirk Friedrichs
 
-Geschäftskonto
+**Geschäftskonto
 (Spenden bitte ausschließlich an die Kontonummer auf unserer Spendenseite!)
 
 Attac Trägerverein e.V.
