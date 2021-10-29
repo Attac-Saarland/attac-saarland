@@ -46,9 +46,9 @@ Dirk Friedrichs
 (Spenden bitte ausschließlich an die Kontonummer auf unserer Spendenseite!)
 
 **Attac Trägerverein e.V.**
-Kontonummer: 600 77 26 100\
-GLS Gemeinschaftsbank\
-IBAN: DE96 4306 0967 6007726100\
+Kontonummer: 600 77 26 100
+GLS Gemeinschaftsbank
+IBAN: DE96 4306 0967 6007726100
 BIC: GENODEM 1 GLS
 
 ## Webauftritt
