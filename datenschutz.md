@@ -118,7 +118,8 @@ h) Wenn der durch Ihre Einwilligung bestimmte Zweck der Verarbeitung Ihrer Daten
 7. Kein Profiling  
 
 
-Ihre personenbezogenen Daten werden von uns nicht für eine Profilbildung verarbeitet. Zur Begründung und Durchführung des Vertragsverhältnisses nutzen wir grundsätzlich keine automatisierte Entscheidungsfindung.
+Ihre personenbezogenen Daten werden von uns nicht für eine Profilbildung verarbeitet. Zur Begründung und Durchführung des Vertragsverhältnisses nutzen wir grundsätzlich keine automatisierte Entscheidungsfindung.  
+
 
 8. Folgen der Nichtbereitstellung Ihrer personenbezogenen Daten 
 
