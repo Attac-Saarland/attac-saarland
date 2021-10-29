@@ -17,16 +17,14 @@ sections:
         
 
         
-      <br>
-      Bei Attac ist [**finanzielle
+      <br> Bei Attac ist [**finanzielle
       Transparenz**](http://www.attac-netzwerk.de/index.php?id=1429)
       selbstverständlich – Mitglieder und Spender_innen haben ein Recht darauf
       zu erfahren, was mit ihrem Geld geschieht. Deshalb kann jede_r einen Blick
       auf unsere Finanzen werfen. [Weitere
       Infos](http://www.attac-netzwerk.de/index.php?id=1429)
     content: >
-      ![Finance for the
-      people](/spenden/images/finance-for-the-people-900.jpg)  
+      ![Finance for the people](/spenden/images/finance-for-the-people-900.jpg)\
 
       <br>Mit zahlreichen Kampagnen, Aktionen und Projekten macht sich Attac
       stark für Gerechtigkeit. Doch politische Arbeit kostet nicht nur Zeit und
@@ -39,10 +37,11 @@ sections:
 
 
       Mit diesem Formular kannst Du uns bequem mit Deiner Spende unterstützen.
-      Eine Einzugsermächtigung spart Zeit und Geld! Alternativ kannst Du auch
-      eine Spende direkt auf unser Spendenkonto überweisen, telefonisch spenden
-      oder ein Spendenformular ausdrucken und uns per Fax oder Post zukommen
-      lassen.
+      Alle Spenden fließen direkt an Attac Deutschland, deren Regionalgruppe wir
+      sind. Eine Einzugsermächtigung spart Zeit und Geld! Alternativ kannst Du
+      auch eine Spende direkt auf unser Spendenkonto überweisen, telefonisch
+      spenden oder ein Spendenformular ausdrucken und uns per Fax oder Post
+      zukommen lassen.
 
 
       ##### **Vielen Dank für Deine Unterstützung!**
