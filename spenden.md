@@ -535,7 +535,7 @@ seo:
       value: Attac unterstützen
       keyName: property
     - name: 'og:image'
-      value: 
+      value: /spenden/images/finance-for-the-people-900.jpg
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
