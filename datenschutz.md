@@ -112,7 +112,8 @@ f) Wenn Sie sich an einer von uns betriebenen Bettenbörse für eine Veranstaltu
 
 g) Wenn Sie sich an einer von uns betriebenen Mitfahrbörse für eine Veranstaltung beteiligt haben, löschen wir Ihre Daten nach Ablauf der Veranstaltung mit einer Karenzzeit von einem Monat.
 
-h) Wenn der durch Ihre Einwilligung bestimmte Zweck der Verarbeitung Ihrer Daten beendet wurde (Beendigung Petition/Unterschriftensammlung/elektronische Abstimmung) löschen wir Ihre Daten spätestens nach zwei Monaten.
+h) Wenn der durch Ihre Einwilligung bestimmte Zweck der Verarbeitung Ihrer Daten beendet wurde (Beendigung Petition/Unterschriftensammlung/elektronische Abstimmung) löschen wir Ihre Daten spätestens nach zwei Monaten.  
+
 
 7. Kein Profiling 
 
