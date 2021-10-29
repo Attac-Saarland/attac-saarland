@@ -26,8 +26,6 @@ seo:
         Datenschutzerklärung nach der DSGVO
 layout: page
 ---
-gt. Wir erheben und verwenden personenbezogene Daten nur, soweit dies zur Bereitstellung einer funktionsfähigen Webseite sowie meiner Inhalte und Leistungen erforderlich ist. Als personenbezogene Daten gelten sämtliche Informationen, die dazu dienen, einen Rückschluss auf Ihre Person zuzulassen (z.B. Vor- und Nachname, E-Mail-Adresse, Telefonnummer). Aufgrund Ihrer freiwilligen Eingaben auf der Webseite erheben wir Daten auf dem Kontaktformular (Vor- und Nachname, Telefonnummer und Ihre E-Mail-Adresse). Die von Ihnen eingegebenen Daten dienen alleine der Kontaktaufnahme und werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Im Online-Formular weisen wir Sie nochmals auf den Zweck der Datenerhebung und auf diese Datenschutzerklärung hin. Hierbei weisen wir darauf hin, dass bei der Datenübertragung im Internet Sicherheitslücken bestehen können. Sollten Sie den Kommunikationsweg dennoch nutzen, erfolgt die Nutzung des Kontaktformulars durch Ihre freiwillig erteilte Einwilligung (Art. 6 Absatz 1 Satz 1 lit a. DSGVO).<br><br>
-
 
 
 ##### Umfang der Datenverarbeitung
