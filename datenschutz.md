@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Datenschutzbestimmungen
+      value: DatenschutzbestimmungenInformationen zum Datenschutz bei Attac
       keyName: property
     - name: 'og:description'
       value: >-
