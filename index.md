@@ -725,7 +725,7 @@ sections:
       - title: Impressum & Datenschutz
         title_align: left
         content: |
-          Impressum
+          [Impressum](/impressum)
 
           [Datenschutz](/datenschutz)
 
