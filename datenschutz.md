@@ -224,7 +224,8 @@ Für die Durchführung von Webinaren, die aufgrund der Veranstaltungsgröße ode
 
 Ihnen steht jederzeit ein umfassendes Auskunftsrecht bezüglich der über Sie bei uns gespeicherten personenbezogenen Daten zu, sowie das Recht auf Berichtigung unrichtiger Daten, deren Sperrung oder Löschung.
 
-Wenn Sie Auskunft über Ihre personenbezogenen Daten beziehungsweise deren Korrektur oder Löschung wünschen oder weitergehende Fragen über die Verwendung Ihrer uns überlassenen personenbezogenen Daten haben, kontaktieren Sie bitte: webadmin[at]attac.de
+Wenn Sie Auskunft über Ihre personenbezogenen Daten beziehungsweise deren Korrektur oder Löschung wünschen oder weitergehende Fragen über die Verwendung Ihrer uns überlassenen personenbezogenen Daten haben, kontaktieren Sie bitte: webadmin[at]attac.de  
+
 
 Datenschutzbeauftragter 
 
