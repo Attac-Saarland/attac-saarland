@@ -69,7 +69,7 @@ Eine über die vorbenannten Zwecke hinausgehende Verarbeitung, insbesondere die 
 
 h) Möchten Sie sich an einer von uns betriebenen Petition/Unterschriftensammlung teilnehmen,  verarbeiten wir Ihre Daten gemäß Ihrer Einwilligung nach Rechtsgrundlage: Art. 6 Abs. 1 (a) DSGVO.
 
-5.  Empfänger\*innen Ihrer Daten
+.  Empfänger\*innen Ihrer Daten
 
 Ihre personenbezogenen Daten werden bei uns gepflegt und verarbeitet, wir achten dabei umfassend auf alle datenschutzrechtlichen Belange.
 
