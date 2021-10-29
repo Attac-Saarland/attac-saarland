@@ -31,7 +31,7 @@ layout: page
 Attac Deutschland ist ein Projekt des Attac Trägerverein e.V.
 Der Verein ist beim Amtsgericht Frankfurt/Main unter der
 Vereinsregisternummer VR 12648 registriert.
-Die Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz lautet: DE 247862896\
+Die Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz lautet: DE 247862896
 Die Steuernummer ist: 45 250 52429
 
 [**Satzung des Attac Trägervereins**](https://www.attac.de/fileadmin/user_upload/bundesebene/attac-strukturen/AttacTraegerverein-eV\_\_Satzung_Sept2015.pdf)
