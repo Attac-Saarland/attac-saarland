@@ -168,11 +168,6 @@ Zugang zu den personenbezogenen Daten haben in Attac ausschließlich einzelne Mi
 
 Alle personenbezogenen Daten werden standardmäßig über eine SSL-Verbindung übertragen. SSL gewährleistet eine sichere und verschlüsselte, von außen nicht zugängliche Datenübertragung (erkennbar am "s" im "https://" in der Adresszeile des Webbrowsers). Für E-Mails können wir die Sicherheit der gesendeten Daten auf dem Übertragungsweg nicht gewährleisten.
 
-**Attac Webseite**
-
-Unser Web-Hoster speichert keine Daten von den Nutzer\*innen unserer Webseiten.
-
-Bei der Suchfunktion auf der Attac-Webseite setzen wir eine eigens entwickelte Suchmaschine ein, die keine Nutzer\*innendaten (IP-Adresse, Browser, Uhrzeit, etc.) speichert.
 
 **Fremde Web-Dienste**
 
