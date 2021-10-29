@@ -3,7 +3,7 @@ title: Impressum
 traeger: >
   ### Attac Trägerverein e.V.
 
-Münchener Straße 48  
+    Münchener Straße 48  
 60329 Frankfurt  
 Telefon: +49 69 900 281 -10  
 Telefax: +49 69 900 281-99  
