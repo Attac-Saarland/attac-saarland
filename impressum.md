@@ -87,7 +87,8 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 Insofern nicht anders vermerkt, stehen die unveränderten Texte unter Angabe ihrer Quellen zu öffentlichen Verfügung. Im Allgemeinen gilt das auch für Bilder, dies jedoch erst nach Absprache mit Attac Deutschland.
 
-Geschäftskonto
+## Geschäftskonto  
+
 (Spenden bitte ausschließlich an die Kontonummer auf unserer Spendenseite!)
 
 Attac Trägerverein e.V.
