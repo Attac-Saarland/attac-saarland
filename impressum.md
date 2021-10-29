@@ -34,7 +34,7 @@ Vereinsregisternummer VR 12648 registriert.
 Die Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz lautet: DE 247862896
 Die Steuernummer ist: 45 250 52429
 
-[**Satzung des Attac Trägervereins**](https://www.attac.de/fileadmin/user_upload/bundesebene/attac-strukturen/AttacTraegerverein-eV\_\_Satzung_Sept2015.pdf)
+[**Satzung des Attac Trägervereins**](https://www.attac.de/fileadmin/user_upload/bundesebene/attac-strukturen/AttacTraegerverein-eV\_Satzung_Sept2015.pdf)
 
 ## Vertretungsberechtigte
 
