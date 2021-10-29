@@ -28,29 +28,6 @@ layout: page
 ---
 
 
-##### Umfang der Datenverarbeitung
-
-Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sowie der Möglichkeit der Kontaktaufnahme mit mir. Bei jedem Aufruf meiner Internetseite erfasst das System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners.<br><br>
-
-##### Folgende Daten werden hierbei erhoben:
-
-(1) Informationen über den Browsertyp und die verwendete Version
-
-(2) Das Betriebssystem des Nutzers
-
-(3) Den Internet-Service-Provider des Nutzers
-
-(4) Die IP-Adresse des Nutzers
-
-(5) Datum und Uhrzeit des Zugriffs
-
-(6) Websites, von denen das System des Nutzers auf unsere Internetseite gelangt
-
-(7) Websites, die vom System des Nutzers über unsere Website aufgerufen werden
-
-Die Daten werden ebenfalls in den Logfiles des Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt.<br><br>
-
-
 
 ##### Wofür werden die Daten genutzt?
 
