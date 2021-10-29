@@ -39,9 +39,9 @@ sections:
       Mit diesem Formular kannst Du uns bequem mit Deiner Spende unterstützen.
       Alle Spenden fließen direkt an Attac Deutschland, deren Regionalgruppe wir
       sind. Eine Einzugsermächtigung spart Zeit und Geld! Alternativ kannst Du
-      auch eine Spende direkt auf unser Spendenkonto überweisen, telefonisch
-      spenden oder ein Spendenformular ausdrucken und uns per Fax oder Post
-      zukommen lassen.
+      auch eine Spende direkt auf das Spendenkonto von Attac Deutschland
+      überweisen, telefonisch spenden oder ein Spendenformular ausdrucken und
+      uns per Fax oder Post zukommen lassen.
 
 
       ##### **Vielen Dank für Deine Unterstützung!**
