@@ -744,7 +744,7 @@ seo:
       value: Ein Knoten im internationalen Attac-Netzwerk.
       keyName: property
     - name: 'og:image'
-      value: images/finance-for-the-people.jpg
+      value: /images/finance-for-the-people.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -754,7 +754,7 @@ seo:
     - name: 'twitter:description'
       value: Ein Knoten im internationalen Attac-Netzwerk.
     - name: 'twitter:image'
-      value: images/finance-for-the-people.jpg
+      value: /images/finance-for-the-people.jpg
       relativeUrl: true
 layout: advanced
 ---
