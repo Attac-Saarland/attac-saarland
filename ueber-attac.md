@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: Alles was ihr schon immer über uns wissen wolltet
     - name: 'twitter:image'
-      value: /ueber-attac/imagesk2021082111430400-990.jpg
+      value: /ueber-attac/images/k2021082111430400-990.jpg
       relativeUrl: true
 layout: page
 ---
