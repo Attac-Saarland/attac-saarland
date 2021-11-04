@@ -558,16 +558,8 @@ sections:
       - title: Mitdenker
         subtitle: Erster Mittwoch im Monat
         title_align: left
-        content: |-
-          ***
-
-          ### Im Austausch bleiben
-
-          und eigene Möglichkeiten entdecken
-
-          *   Verständnis vertiefen
-          *   Wissen, was geplant ist
-          *   Mitreden, mitgestalten
+        content: |
+          *
         content_align: left
         actions:
           - label: Mitmachen
