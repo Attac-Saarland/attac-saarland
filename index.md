@@ -562,7 +562,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Mitdenker
+      - title: Kennenlerner
         subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |
