@@ -573,7 +573,8 @@ sections:
         actions_align: left
         actions_width: full-width
         content: +
-          *** ### Attacademie 2022\n\nPraxiswerkstatt Wirtschaft\n\n*   ökonomischen Theorien\n\n*   Alternatives Wirtschaften\_\n\n*   solidarisch-ökologisch-demokratische Transformation\n\n*   politische Selbstreflexion\n"
+          *** 
+          ### Attacademie 2022\n\nPraxiswerkstatt Wirtschaft\n\n*   ökonomischen Theorien\n\n*   Alternatives Wirtschaften\_\n\n*   solidarisch-ökologisch-demokratische Transformation\n\n*   politische Selbstreflexion\n"
       - title: Mitstreiter
         subtitle: Erster Mittwoch im Monat
         title_align: left
