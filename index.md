@@ -572,7 +572,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        content: "### Attacademie 2022\n\nPraxiswerkstatt für solidarisches, ökologisches und demokratisches Wirtschaften\n\n*   zu alternativen ökonomischen Theorien\n\n*   zur gelebten Praxis Alternativen Wirtschaftens\_\n\n*   zu Hürden und Strategien für die gesellschaftliche Transformation\n\n*   zum Nachdenken über die eigene politische Praxis\n"
+        content: "### Attacademie 2022\n\nPraxiswerkstatt für solidarisches, ökologisches und demokratisches Wirtschaften\n\n*   zu anderen ökonomischen Theorien\n\n*   zur gelebten Praxis Alternativen Wirtschaftens\_\n\n*   zu Hürden und Strategien für die gesellschaftliche Transformation\n\n*   zum Nachdenken über die eigene politische Praxis\n"
       - title: Mitstreiter
         subtitle: Erster Mittwoch im Monat
         title_align: left
