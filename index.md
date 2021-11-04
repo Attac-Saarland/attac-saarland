@@ -572,8 +572,9 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        content: |
-          # Attacademie 2022&#xA;
+        content: |+
+          ### Attacademie 2022
+
       - title: Mitstreiter
         subtitle: Erster Mittwoch im Monat
         title_align: left
