@@ -565,8 +565,6 @@ sections:
       - title: Kennenlerner
         subtitle: Bis 30. November bewerben
         title_align: left
-        content: |
-          *
         content_align: left
         actions:
           - label: Mitmachen
