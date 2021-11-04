@@ -177,7 +177,7 @@ sections:
   - type: features_section
     title: Attac in Aktion
     features:
-      - title: Der Wahlkrampfabend
+      - title: Der Wahlk(r)ampfabend
         actions: []
         image_alt: lorem-ipsum
         media_position: left
