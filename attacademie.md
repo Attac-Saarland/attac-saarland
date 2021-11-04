@@ -13,17 +13,17 @@ layout: page
 
 Die Attacademie ist eine Seminarreihe für Menschen, die die Entwicklung und Etablierung einer ökologisch tragbaren, solidarischen und demokratischen Wirtschaft – „das gute Leben für alle“ voranbringen wollen. In einer Gruppe von 16 Teilnehmenden begeben wir uns von Februar bis November 2022 auf eine gemeinsame Lernreise. Als Teilnehmer:in des Kurses...
 
-·         beschäftigst du dich mit ökonomischen Theorien jenseits des Mainstreams – unter anderem Marxistische, Ökologische, Keynesianische und Feministische Ökonomik.
+·         beschäftigst du dich mit **ökonomischen Theorien jenseits des Mainstreams** – unter anderem Marxistische, Ökologische, Keynesianische und Feministische Ökonomik.
 
-·         lernst du Akteure und Projekte gelebter Praxis des Alternativen Wirtschaftens und fairer Handelsbeziehungen kennen – z.B. Gemeinwohlökonomie, Solidarische Ökonomien, Commons-Initiativen und Kollektivbetriebe.
+·         lernst du **Akteure und Projekte gelebter Praxis des Alternativen Wirtschaftens** und fairer Handelsbeziehungen kennen – z.B. Gemeinwohlökonomie, Solidarische Ökonomien, Commons-Initiativen und Kollektivbetriebe.
 
-·         diskutierst du die notwendigen gesellschaftlichen und politischen Herausforderungen, Hürden und Strategien für die Transformation zu einer solidarisch-ökologisch-demokratischen Wirtschaft.
+·         diskutierst du die notwendigen gesellschaftlichen und politischen **Herausforderungen, Hürden und Strategien für die Transformation** zu einer solidarisch-ökologisch-demokratischen Wirtschaft.
 
-·         reflektierst du deine eigene politische Praxis und bekommst Unterstützung und Beratung durch die Kursleitung, Trainer:innen und die Kursgruppe.
+·         **reflektierst du deine eigene politische Praxis** und bekommst Unterstützung und Beratung durch die Kursleitung, Trainer:innen und die Kursgruppe.
 
-*   entwickelst du - wenn du möchtest - gemeinsam mit anderen Teilnemenden ein Praxisprojekt.
+*   entwickelst du - wenn du möchtest - gemeinsam mit anderen Teilnemenden **ein Praxisprojekt**.
 
-·         übst du wichtige Fähigkeiten für den gesellschaftlichen Wandel, vermittelt von bewegungsnahen Referent:innen
+·         übst du **wichtige Fähigkeiten für den gesellschaftlichen Wandel**, vermittelt von bewegungsnahen Referent:innen
 
  
 
