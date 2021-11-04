@@ -572,7 +572,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        content: +
+        content: »|+
           *** 
           ### Attacademie 2022
           Praxiswerkstatt Wirtschaft
