@@ -540,7 +540,7 @@ sections:
       - title: Reinschnupperer
         subtitle: Erster Mittwoch im Monat
         title_align: left
-        content: |
+        content: |+
           ***
 
           ### Ohne Anmeldung...
@@ -548,16 +548,13 @@ sections:
           beim monatlichen Jour fixe vorbeischauen und
 
           *   neue Leute kennenlernen
-          *
-          *
 
-          *
+          *   erfahren, was geplant ist
 
-          *   Wissen, was geplant ist
+          *   sich gemeinsam weiterbilden
 
-              Verständnis vertiefen*
+          <!---->
 
-              *   Mitreden, mitgestalten
         content_align: left
         actions:
           - label: Mitmachen
