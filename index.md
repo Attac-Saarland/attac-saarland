@@ -563,7 +563,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Kennenlerner
-        subtitle: Erster Mittwoch im Monat
+        subtitle: Bis 30. November bewerben
         title_align: left
         content: |
           *
