@@ -568,7 +568,7 @@ sections:
         content_align: left
         actions:
           - label: Bewerben
-            url: /unterstuetzen
+            url: /attacademie
             style: primary
         actions_align: left
         actions_width: full-width
