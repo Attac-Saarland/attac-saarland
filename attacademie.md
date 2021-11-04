@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Attacademie 2022
 seo:
   title: ''
   description: ''
