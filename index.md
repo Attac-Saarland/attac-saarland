@@ -580,6 +580,7 @@ sections:
           *   Alternatives Wirtschaften
           *   solidarisch-ökologisch-demokratische Transformation
           *   politische Selbstreflexion
+          <!---->
       - title: Mitstreiter
         subtitle: Erster Mittwoch im Monat
         title_align: left
