@@ -577,7 +577,8 @@ sections:
           ### Attacademie 2022
           Praxiswerkstatt Wirtschaft
           *   ökonomischen Theorien
-          *   Alternatives Wirtschaften\_\n\n*   solidarisch-ökologisch-demokratische Transformation\n\n*   politische Selbstreflexion\n"
+          *   Alternatives Wirtschaften
+          *   solidarisch-ökologisch-demokratische Transformation\n\n*   politische Selbstreflexion\n"
       - title: Mitstreiter
         subtitle: Erster Mittwoch im Monat
         title_align: left
