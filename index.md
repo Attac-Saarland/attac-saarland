@@ -581,7 +581,7 @@ sections:
 
           *   ökonomische Theorien
           *   alternatives Wirtschaften
-          *   solidarisch-ökologische Transformation
+          *   Strategien der Transformation
           *   politische Selbstreflexion
 
           <!---->
