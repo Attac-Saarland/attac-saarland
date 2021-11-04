@@ -567,7 +567,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Mitmachen
+          - label: Anmelden
             url: /unterstuetzen
             style: primary
         actions_align: left
