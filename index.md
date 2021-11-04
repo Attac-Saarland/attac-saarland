@@ -579,7 +579,7 @@ sections:
           *   ökonomischen Theorien
           *   Alternatives Wirtschaften
           *   solidarisch-ökologisch-demokratische Transformation
-          *   politische Selbstreflexion\n"
+          *   politische Selbstreflexion
       - title: Mitstreiter
         subtitle: Erster Mittwoch im Monat
         title_align: left
