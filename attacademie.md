@@ -27,7 +27,7 @@ Die Attacademie ist eine Seminarreihe für Menschen, die die Entwicklung und Eta
 
  
 
-\<h3 style="text-align: center;">Interesse?\</h3>
+### Interesse?
 
 *   Weitere Informationen zum Kurs und zur Bewerbung findest du auf unserer Website: [https://bewegungsakademie.de/attacademie-2022](https://bewegungsakademie.de/attacademie-2022/)
 
