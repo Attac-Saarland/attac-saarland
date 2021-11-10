@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Attac Saar
     subtitle: Eine andere Welt ist möglich.
-    content: ''
+    content: ""
     actions:
       - label: Mitmachen ist einfach!
         url: /unterstuetzen
@@ -57,7 +57,7 @@ sections:
     background_color: secondary
   - features:
       - actions: []
-        image_alt: l20 Jahre Attac Saar
+        image_alt: 20 Jahre Attac Saar
         media_position: bottom
         media_width: fourty
         align: center
@@ -253,7 +253,7 @@ sections:
         media_width: fifty
         align: left
         image: images/bge-abschluss.jpg
-      - title: 'Kolumbien weint, aber ergibt sich nicht!'
+      - title: "Kolumbien weint, aber ergibt sich nicht!"
         content: >
           ### La noche de la Independencia
 
@@ -502,7 +502,7 @@ sections:
           Freihandel und nationalistisch motiviertem Protektionismus ein.
 
       - title: Attac in Aktion
-        subtitle: 'Foto: Gerhard Schaal'
+        subtitle: "Foto: Gerhard Schaal"
         title_align: left
         content_align: left
         actions: []
@@ -538,7 +538,7 @@ sections:
     subtitle: Mitmachen
     grid_items:
       - title: Reinschnupperer
-        subtitle: Erster Mittwoch im Monat
+        subtitle: nächster Jour fixe am 10.11.21
         title_align: left
         content: |+
           ***
@@ -557,8 +557,8 @@ sections:
 
         content_align: left
         actions:
-          - label: Mitmachen
-            url: /unterstuetzen
+          - label: Mehr erfahren
+            url: /jour-fixe
             style: primary
         actions_align: left
         actions_width: full-width
@@ -762,26 +762,26 @@ seo:
   title: 20 Jahre Attac Saar
   description: Ein Knoten im internationalen Attac-Netzwerk.
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: 20 Jahre Attac Saar
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: Ein Knoten im internationalen Attac-Netzwerk.
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: /images/finance-for-the-people.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: 20 Jahre Attac Saar
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: Ein Knoten im internationalen Attac-Netzwerk.
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: /images/finance-for-the-people.jpg
       relativeUrl: true
 layout: advanced
