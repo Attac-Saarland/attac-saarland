@@ -62,7 +62,7 @@ sections:
           Ausstellung mit Kulturprogramm im „Arrival Room” 10.-24. Mai 2022
 
 
-          **Der Künstler: Gerhard Schaal**
+          **Der Künstler: Gerhard Schaal**  
           
           
           
@@ -89,7 +89,7 @@ sections:
 
 
           Die Ausstellung ist vom 10. bis 24. Mai 2022 im „Arrival Room“ zu 
-          sehen und wird von einem kulturellen Beiprogramm begleitet.
+          sehen und wird von einem kulturellen Beiprogramm begleitet.  
           
 
 
