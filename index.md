@@ -65,6 +65,8 @@ sections:
           **Der Künstler: Gerhard Schaal**
           
           
+          
+          
           Online verzeichnen seine Fotografien inzwischen viele Millionen 
           Sichtungen, doch vorgezeichnet war dieses Talent nicht. Als 
           gelernter Universalfräser hat Gerhard Schaal beim Neunkircher 
@@ -89,6 +91,7 @@ sections:
           Die Ausstellung ist vom 10. bis 24. Mai 2022 im „Arrival Room“ zu 
           sehen und wird von einem kulturellen Beiprogramm begleitet.
           
+
 
 
           **Dienstag, 10. Mai, 18 Uhr: Vernissage (Ausstellungseröffnung)**
