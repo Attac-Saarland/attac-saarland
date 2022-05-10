@@ -61,7 +61,8 @@ sections:
         content: >
           Ausstellung mit Kulturprogramm im „Arrival Room” 10.-24. Mai 2022
 
-          Der Künstler: Gerhard Schaal
+
+          **Der Künstler: Gerhard Schaal**
           Online verzeichnen seine Fotografien inzwischen viele Millionen 
           Sichtungen, doch vorgezeichnet war dieses Talent nicht. Als 
           gelernter Universalfräser hat Gerhard Schaal beim Neunkircher 
@@ -71,7 +72,8 @@ sections:
           gewerkschaftlichen Aktionen, inzwischen auch bei Attac, Fridays 
           For Future und vielen anderen Anlässen dokumentierend mit seiner 
           Kamera unterwegs. 
-          
+
+
           Im Jahr 2016 hat Gerhard Schaal seinen Bekanntheitsgrad als 
           Fotograf enorm vergrößert - anlässlich eines Seminars an der 
           Hochschule für Bildende Künste nahm er 960 (!) Porträts von Menschen 
@@ -81,20 +83,31 @@ sections:
           unwiederholbar, da zum Abschluss jede(r) Portraitierte sein Portrait 
           geschenkt bekommt.
 
+
           Die Ausstellung ist vom 10. bis 24. Mai 2022 im „Arrival Room“ zu 
           sehen und wird von einem kulturellen Beiprogramm begleitet.
 
-          Dienstag, 10. Mai, 18 Uhr: Vernissage (Ausstellungseröffnung)
-          Donnerstag, 12. Mai, 19 Uhr: Spielfilm und Diskussion zum Thema 
-          Migration im Arrival Room (Film: "Guten Tag, Ramon")
-          Donnerstag, 19. Mai, 18:30 Uhr: Buchvorstellung und Lebensmittelquiz 
-          mit Joachim "Puma" Schmitt (Autor von: „Schmackhaft einkaufen“). 
+
+          **Dienstag, 10. Mai, 18 Uhr: Vernissage (Ausstellungseröffnung)**
+          
+          
+          **Donnerstag, 12. Mai, 19 Uhr: Spielfilm und Diskussion zum Thema 
+          Migration im Arrival Room (Film: "Guten Tag, Ramon")**
+          
+          
+          **Donnerstag, 19. Mai, 18:30 Uhr: Buchvorstellung und Lebensmittelquiz 
+          mit Joachim "Puma" Schmitt (Autor von: „Schmackhaft einkaufen“).** 
           Da der Autor anwesend ist, gibt es das Buch mit persönlicher Widmung 
           für nur 10 Euro statt 15 Euro Ladenpreis.
-          Freitag, 20. Mai, 20 Uhr: Finissage mit Musik
-          Samstag, 21. Mai, 14-16 Uhr: Kaffee und Kuchen im Arrival Room
+          
+          
+          **Freitag, 20. Mai, 20 Uhr: Finissage mit Musik**
+          
+          
+          **Samstag, 21. Mai, 14-16 Uhr: Kaffee und Kuchen im Arrival Room**
+          
 
-          Dienstag, 24. Mai, 12-18 Uhr: Ausstellungsauflösung
+          **Dienstag, 24. Mai, 12-18 Uhr: Ausstellungsauflösung**
     feature_padding_vert: medium
     align: center
     padding_top: medium
